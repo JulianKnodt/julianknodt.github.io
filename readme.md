@@ -8,6 +8,5 @@ If you have feedback, leave a GitHub Issue or a Pull Request if you feel strongl
 
 ## Writings:
 
-- [Test](test.md)
-
+- [Classes](classes.md)
 
