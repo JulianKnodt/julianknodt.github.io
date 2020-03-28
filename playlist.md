@@ -2,9 +2,11 @@
 
 <script>
 window.onload = () => {
-  document.getElementById("pick-random").addEventListener("click", () => {
-    const possible = Array.from(document.querySelectorAll("a")).slice(1);
-    open(possible[~~(Math.random() * possible.length)]);
+  window.addEventListener("DOMContentLoaded", () => {
+    document.getElementById("pick-random").addEventListener("click", () => {
+      const possible = Array.from(document.querySelectorAll("a")).slice(1);
+      open(possible[~~(Math.random() * possible.length)]);
+    });
   });
 };
 </script>
