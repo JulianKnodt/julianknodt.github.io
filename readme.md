@@ -14,6 +14,11 @@ issue, or make a pull request! I'll get to 'em eventually.
 
 - [Classes](classes.md)
 
+
+## Other Stuff
+
+- [Music!](playlist.md)
+
 Things that I want to write on:
 
 - [My personal belief that the president is not as relevant as we believe](TODO)
