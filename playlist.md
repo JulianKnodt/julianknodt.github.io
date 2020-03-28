@@ -25,7 +25,12 @@ To select a random song, paste this into the dev console:
 ```
 open(Array.from(document.querySelectorAll("a")).slice(1).sort(() => Math.random() * 2 - 1)[1])
 ```
+
+Or click the button below for the same thing.
+
+<center>
 <button onclick="openRandom()">Open Random Song</button>
+</center>
 
 ---
 
