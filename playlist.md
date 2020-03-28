@@ -1,5 +1,12 @@
 # Music!
 
+<script>
+function openRandom() {
+  const possible = Array.from(document.querySelectorAll("a")).slice(1);
+  open(possible[~~(Math.random() * possible.length)]);
+};
+</script>
+
 Made on 3/27/20
 
 Because of quarantine, I've had a lot more time to do random things. I've been meaning to
@@ -18,7 +25,7 @@ To select a random song, paste this into the dev console:
 ```
 open(Array.from(document.querySelectorAll("a")).slice(1).sort(() => Math.random() * 2 - 1)[1])
 ```
-<button id="pick-random" onclick="{const possible = Array.from(document.querySelectorAll('a')).slice(1);open(possible[~~(Math.random() * possible.length)]);};">Open Random Song</button>
+<button onclick="openRandom()">Open Random Song</button>
 
 ---
 
