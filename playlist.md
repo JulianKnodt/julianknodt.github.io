@@ -1,9 +1,10 @@
 # Music!
 
 <script>
-$(document).ready(() => {
-  $("#pick-random").click(() => {
-    open(Array.from(document.querySelectorAll("a")).slice(1).sort(() => Math.random() * 2 - 1)[1])
+window.onload(() => {
+  document.getElementById("pick-random").addEventListener("click", () => {
+    const possible = Array.from(document.querySelectorAll("a")).slice(1);
+    open(possible[~~(Math.random() * possible.length)]);
   });
 });
 </script>
