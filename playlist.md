@@ -1,12 +1,12 @@
 # Music!
 
 <script>
-window.onload(() => {
+window.onload = () => {
   document.getElementById("pick-random").addEventListener("click", () => {
     const possible = Array.from(document.querySelectorAll("a")).slice(1);
     open(possible[~~(Math.random() * possible.length)]);
   });
-});
+};
 </script>
 
 Made on 3/27/20
