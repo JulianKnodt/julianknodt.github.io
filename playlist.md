@@ -6,7 +6,7 @@ $(document).ready(() => {
     open(Array.from(document.querySelectorAll("a")).slice(1).sort(() => Math.random() * 2 - 1)[1])
   });
 });
-<script>
+</script>
 
 Made on 3/27/20
 
