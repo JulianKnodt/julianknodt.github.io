@@ -12,6 +12,11 @@ thumbnails. Then I scrolled through the list for about 20 minutes to make sure i
 
 I've not filtered anything except dead links, so please enjoy!.
 
+To select a random song, paste this into the dev console:
+```
+open(Array.from(document.querySelectorAll("a")).slice(1).sort(() => Math.random() * 2 - 1)[1])
+```
+
 ---
 
 [![Alt](https://img.youtube.com/vi/UGeNoml0OHc/0.jpg)](https://www.youtube.com/watch?v=UGeNoml0OHc)
@@ -42,7 +47,6 @@ I've not filtered anything except dead links, so please enjoy!.
 [![Alt](https://img.youtube.com/vi/-tN3Ou6KgsY/0.jpg)](https://www.youtube.com/watch?v=-tN3Ou6KgsY)
 [![Alt](https://img.youtube.com/vi/-xItIxyykXk/0.jpg)](https://www.youtube.com/watch?v=-xItIxyykXk)
 [![Alt](https://img.youtube.com/vi/04mfKJWDSzI/0.jpg)](https://www.youtube.com/watch?v=04mfKJWDSzI)
-[![Alt](https://img.youtube.com/vi/05Jv5p9lI9s/0.jpg)](https://www.youtube.com/watch?v=05Jv5p9lI9s)
 [![Alt](https://img.youtube.com/vi/07N20f1C5n0/0.jpg)](https://www.youtube.com/watch?v=07N20f1C5n0)
 [![Alt](https://img.youtube.com/vi/07RY9TMysiE/0.jpg)](https://www.youtube.com/watch?v=07RY9TMysiE)
 [![Alt](https://img.youtube.com/vi/0Db5n-7YVNk/0.jpg)](https://www.youtube.com/watch?v=0Db5n-7YVNk)
@@ -51,7 +55,6 @@ I've not filtered anything except dead links, so please enjoy!.
 [![Alt](https://img.youtube.com/vi/0Gb14PcUuIY/0.jpg)](https://www.youtube.com/watch?v=0Gb14PcUuIY)
 [![Alt](https://img.youtube.com/vi/0IEbfDtDaUc/0.jpg)](https://www.youtube.com/watch?v=0IEbfDtDaUc)
 [![Alt](https://img.youtube.com/vi/0RpdPzJgaBw/0.jpg)](https://www.youtube.com/watch?v=0RpdPzJgaBw)
-[![Alt](https://img.youtube.com/vi/0TPCc-sTL_4/0.jpg)](https://www.youtube.com/watch?v=0TPCc-sTL_4)
 [![Alt](https://img.youtube.com/vi/0XmroHg5OnA/0.jpg)](https://www.youtube.com/watch?v=0XmroHg5OnA)
 [![Alt](https://img.youtube.com/vi/0YzqislSKTc/0.jpg)](https://www.youtube.com/watch?v=0YzqislSKTc)
 [![Alt](https://img.youtube.com/vi/0a5FpYAFgyo/0.jpg)](https://www.youtube.com/watch?v=0a5FpYAFgyo)
@@ -673,7 +676,6 @@ I've not filtered anything except dead links, so please enjoy!.
 [![Alt](https://img.youtube.com/vi/SSL0ILIYyVA/0.jpg)](https://www.youtube.com/watch?v=SSL0ILIYyVA)
 [![Alt](https://img.youtube.com/vi/SW-BU6keEUw/0.jpg)](https://www.youtube.com/watch?v=SW-BU6keEUw)
 [![Alt](https://img.youtube.com/vi/SWOaCOIKqBo/0.jpg)](https://www.youtube.com/watch?v=SWOaCOIKqBo)
-[![Alt](https://img.youtube.com/vi/S_x4_QrMcm8/0.jpg)](https://www.youtube.com/watch?v=S_x4_QrMcm8)
 [![Alt](https://img.youtube.com/vi/S_xH7noaqTA/0.jpg)](https://www.youtube.com/watch?v=S_xH7noaqTA)
 [![Alt](https://img.youtube.com/vi/Scg08_XGP3M/0.jpg)](https://www.youtube.com/watch?v=Scg08_XGP3M)
 [![Alt](https://img.youtube.com/vi/SdfL2nY-Xs8/0.jpg)](https://www.youtube.com/watch?v=SdfL2nY-Xs8)
@@ -1416,7 +1418,6 @@ I've not filtered anything except dead links, so please enjoy!.
 [![Alt](https://img.youtube.com/vi/zCQYoYu-mrw/0.jpg)](https://www.youtube.com/watch?v=zCQYoYu-mrw)
 [![Alt](https://img.youtube.com/vi/zE23hMLbHg4/0.jpg)](https://www.youtube.com/watch?v=zE23hMLbHg4)
 [![Alt](https://img.youtube.com/vi/zG28TM7rKOs/0.jpg)](https://www.youtube.com/watch?v=zG28TM7rKOs)
-[![Alt](https://img.youtube.com/vi/zH-JnL7G844/0.jpg)](https://www.youtube.com/watch?v=zH-JnL7G844)
 [![Alt](https://img.youtube.com/vi/zJh0b0O16Aw/0.jpg)](https://www.youtube.com/watch?v=zJh0b0O16Aw)
 [![Alt](https://img.youtube.com/vi/zY8VXynNCPs/0.jpg)](https://www.youtube.com/watch?v=zY8VXynNCPs)
 [![Alt](https://img.youtube.com/vi/zaqhkHXqOKA/0.jpg)](https://www.youtube.com/watch?v=zaqhkHXqOKA)
