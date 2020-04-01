@@ -95,5 +95,37 @@ This has a striking resemblance to that of a cone, except for Q missing the k co
 additional parameter `r*r` in c.
 
 
-TODO add bit about spectral decomposition of q and efficient computation of a, b and c.
+
+
+
+Now the question is whether this is actually useful. I think the answer to this is, it depends.
+For the most part, most modelling software will use just triangles to render things. If you are
+trying to render conics, this might be useful. Unclear why you need to model conics at all
+though(maybe thin lines for cylinders or something).
+
+As for computational efficiency, it would appear we need to do at least 3 matrix-vector
+multiplies and then 3 more vector-vector products in order to compute a, b, and c. If you
+consider this expensive, we're still in luck. Looking at the structure of `Q = I - kvv^T`,
+taking k = 1 to be a special case for cones, we notice that `Q^T = Q`, From this alone, we
+determine that we can diagonalize the matrix into `Q = V^T S V` for some diagonal matrix D and
+some orthogonal matrix V. From this we can see that
+```
+a = D^T V^T S V D
+b = 2 L^T V^T S V D
+c = L^T V^T S V L
+```
+Now assume S is positive semi-definite(not sure if this is true in practice, I imagine it
+probably always is or a counterexample would immediately appear). Then we can write `S = BB`,
+where B is the elementwise square root of S(elementwise since S is diagonal). Now, we can
+rewrite above to be
+```
+a = (B V D)^T(B V D)
+b = 2 (B V D)^T(B V L)
+c = (B V L)^T(B V L)
+```
+`(B V)` can be precomputed and is a function of the shape itself, so we do not count it in the
+matrix multiplications. Thus, we only need 2 matrix vector multiplies and 3 vector-vector dot
+products.
+
+
 
