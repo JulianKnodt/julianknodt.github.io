@@ -19,11 +19,6 @@ issue, or make a pull request! I'll get to 'em eventually.
 
 - [Music!](playlist.md)
 
-Things that I want to write on:
-
-- [My personal belief that the president is not as relevant as we believe](TODO)
-- [What modern messaging systems need](TODO)
-
 ## Random Questions
 Since I spend a good amount of time just thinking about things, I've accumulated a lot of
 questions which I haven't really found the answer to. I find them worth spending some time
