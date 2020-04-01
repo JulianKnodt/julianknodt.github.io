@@ -13,6 +13,7 @@ issue, or make a pull request! I'll get to 'em eventually.
 ## Writings:
 
 - [Classes](classes.md)
+- [Conic Intersections](intersections.md)
 
 
 ## Other Stuff
