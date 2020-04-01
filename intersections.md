@@ -1,6 +1,9 @@
 # Shape Intersections
 
 I derived some general equations for the intersection of some shapes in graphics!
+They might be useful if rendering conics is compute bound, and this might be an interesting
+approach to try to see if it reduces compute, but otherwise, I just found it fun to think about
+and implement.
 
 I've not found them elsewhere, so I thought I would write them down here.
 Why would you actually use these as opposed other methods? Hopefully they provide efficiency
@@ -19,7 +22,7 @@ and cylinder have very similar Q matrices, but there is an additional term in th
 cylinder.
 
 ## Cone
-A cone, parametrizd by it's apex(C), base radius(r), length(l), and axis direction(V).
+A cone, parameterized by it's apex(C), base radius(r), length(l), and axis direction(V).
 
 The general parametric equation of a point(P) on such a cone would be:
 ```
@@ -51,7 +54,7 @@ let Q = I-kVV^T in
 L^T Q L + 2t L^T Q D + t^2 D^T Q D = 0;
 ```
 
-From this, we can derive that the intersection of cone can be computed by solving the quadratic
+From this, we can derive that the intersection of a ray with a cone can be computed by solving the quadratic
 equation with terms
 ```
 a = D^T Q D
@@ -64,7 +67,7 @@ More on Q later.
 ---
 
 ## Cylinder
-A cylinder parametrized by it's center(C), base radius(r), length(l), and axis direction(V).
+A cylinder parameterized by it's center(C), base radius(r), length(l), and axis direction(V).
 
 The general equation for a point(P) on such a cylinder would be:
 ```
@@ -84,7 +87,7 @@ let L = R - C in
 L^T Q L + 2t L^T Q D + t^2 D^T Q D - r*r = 0;
 ```
 
-From this, we can derive that the intersection of cone can be computed by solving the quadratic
+From this, we can derive that the intersection of a ray with a cylinder can be computed by solving the quadratic
 equation with terms
 ```
 a = D^T Q D
@@ -104,8 +107,9 @@ trying to render conics, this might be useful. Unclear why you need to model con
 though(maybe thin lines for cylinders or something).
 
 As for computational efficiency, it would appear we need to do at least 3 matrix-vector
-multiplies and then 3 more vector-vector products in order to compute a, b, and c. If you
-consider this expensive, we're still in luck. Looking at the structure of `Q = I - kvv^T`,
+multiplies and then 3 more vector-vector dot products in order to compute a, b, and c. If you
+consider this expensive, we're still in luck(I found computing the matrix-vector products to be
+somewhat expensive). Looking at the structure of `Q = I - kvv^T`,
 taking k = 1 to be a special case for cones, we notice that `Q^T = Q`, From this alone, we
 determine that we can diagonalize the matrix into `Q = V^T S V` for some diagonal matrix D and
 some orthogonal matrix V. From this we can see that
@@ -126,6 +130,5 @@ c = (B V L)^T(B V L)
 `(B V)` can be precomputed and is a function of the shape itself, so we do not count it in the
 matrix multiplications. Thus, we only need 2 matrix vector multiplies and 3 vector-vector dot
 products.
-
 
 
