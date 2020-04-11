@@ -13,7 +13,7 @@ issue, or make a pull request! I'll get to 'em eventually.
 ## Writings:
 
 - [Classes](classes.md)
-
+- [Random Sparsity Pattern Ideas](sparsity_patterns.md)
 
 ## Other Stuff
 
