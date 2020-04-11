@@ -25,20 +25,12 @@ This is similar to the N-Rooks problem in that if we consider the matrix to be a
 chessboard, and all the values retained to be rooks, none of the rooks would be able to attack
 each other.
 
-
 If we consider the initial matrix to represent a strongly-connected graph (every vertex is
 connected to all other vertices), then we're finding a set of vertex-disjoing cycles that
 cover all the vertices, while maximizing the sum of all the edge weights.
-I strongly suspect this to be a NP-hard problem to compute, as it is the case that [similar
-problems](http://www.immorlica.com/pubs/cyclecover.pdf) are NP-hard.
 
-If this is merely for pre-processing some matrix, we might not actually care about
-the proposed runtime of an algorithm, unless it would only complete after the heat-death of the
-universe, as might be the case for a large enough dense matrix.
-
-One way to make an efficient algorithm for this is to approximate a solution. For example, one
-can force a matrix to be more sparse initially by retaining at least `k` values per row and
-column, and then running a naive brute force search over the elements.
+This can be done by performing a linear sum assignment over the magnitude of the elements with a
+max instead of a min ([ref](https://en.wikipedia.org/wiki/Assignment_problem)).
 
 ##### Variations
 
