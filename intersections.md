@@ -61,8 +61,8 @@ a = D^T Q D
 b = 2 L^T Q D
 c = L^T Q L
 ```
-Where Q can be precomputed based on the characteristics of the cone.
-More on Q later.
+Where Q can be precomputed based on the characteristics of the cone, but more on Q later.
+These equations can also be used to quickly compute the normal of the cone.
 
 ---
 
