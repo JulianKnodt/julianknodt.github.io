@@ -18,6 +18,7 @@ issue, or make a pull request! I'll get to 'em eventually.
 ## Other Stuff
 
 - [Music!](playlist.md)
+- [Non-YT Music](other_music.md)
 
 ## Random Questions
 Since I spend a good amount of time just thinking about things, I've accumulated a lot of
