@@ -15,6 +15,10 @@ issue, or make a pull request! I'll get to 'em eventually.
 - [Classes](classes.md)
 - [Random Sparsity Pattern Ideas](sparsity_patterns.md)
 
+## Code
+
+- [Graphics Template](graphics_template.md)
+
 ## Other Stuff
 
 - [Music!](playlist.md)
