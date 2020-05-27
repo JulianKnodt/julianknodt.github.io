@@ -18,6 +18,14 @@ issue, or make a pull request! I'll get to 'em eventually.
 ## Code
 
 - [Graphics Template](graphics_template.md)
+<!-- - [City 2D](city_2d.md) -->
+
+## Projects
+
+- [Ink Renderer](http://ink-renderer.herokuapp.com/)
+  - [Github](https://github.com/JulianKnodt/gfx-final-project)
+- [Square Heap](https://github.com/JulianKnodt/sqr_heap)
+- [Raytracer](https://github.com/JulianKnodt/ray_weekend)
 
 ## Other Stuff
 

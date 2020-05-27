@@ -1,2 +1,6 @@
 papers/
 *.swp
+_site/
+Gemfile.lock
+gemfile
+.jekyll-cache/
