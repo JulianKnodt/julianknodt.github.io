@@ -31,6 +31,7 @@ issue, or make a pull request! I'll get to 'em eventually.
 
 - [Music!](playlist.md)
 - [Non-YT Music](other_music.md)
+- [Local News List](local_news_list.md)
 
 ## Random Questions
 Since I spend a good amount of time just thinking about things, I've accumulated a lot of

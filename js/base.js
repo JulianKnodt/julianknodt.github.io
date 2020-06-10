@@ -33,7 +33,7 @@ const add_attribute = (gl, program, name, data, {
   stride,
   offset,
 } = default_attribute_settings) => {
-  type = type || gl.Float;
+  type = type || gl.FLOAT;
   const loc = gl.getAttribLocation(program, name);
   gl.enableVertexAttribArray(loc);
   const buffer = gl.createBuffer();
@@ -57,7 +57,9 @@ class Graphics {
   constructor(gl) {
     this.gl = gl;
     this.program = null;
+    this.length = null;
   }
+  defaults_3d() { defaults_3d(this.gl); }
   add_program(frag_src, vert_src) {
     this.program = add_program(this.gl, frag_src, vert_src);
   }
@@ -67,15 +69,22 @@ class Graphics {
   }
   add_attribute(name, data, settings={}) {
     if (!this.program) throw "Did not initialize program for graphics" ;
+    this.length = data.length/3;
     add_attribute(this.gl, this.program, name, data,
       {...default_attribute_settings, ...settings});
+  }
+  render() {
+    const gl = this.gl;
+    gl.clearColor(0, 0, 0, 1);
+    gl.clear(gl.COLOR_BUFFER_BIT);
+    gl.drawArrays(gl.TRIANGLES, 0, this.length);
   }
 }
 
 const get_graphics = () => {
   const canvas = document.querySelector('#canvas');
   window.canvas = canvas;
-  const gl = canvas.getContext('webgl');
+  const gl = canvas.getContext('webgl2');
   if (!gl) throw "Browser does not support opengl";
   return new Graphics(gl);
 };
@@ -84,8 +93,13 @@ const load_shaders = async (frag_loc, vert_loc) => {
   const frag_src = fetch(frag_loc).then(it => it.text());
   const vert_src = fetch(vert_loc).then(it => it.text());
   const gfx = get_graphics();
-
+  gfx.add_program(await frag_src, await vert_src);
   return gfx;
 };
 
+window.aspect_ratio = 4/3;
+const resize = () => {
+  window.canvas.width = window.innerWidth;
+  window.canvas.height = window.innerWidth * window.aspect_ratio;
+}
 
