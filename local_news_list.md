@@ -3,6 +3,7 @@
 I noticed there was not a good site for condensing local news sources from various cities.
 I thought I'd compile a small list for fun.
 
+
 |State |City           |Name                 |Site       |
 |---   |---            |---                  |---        |
 |CA    |Saratoga       |Saratogian           |[L][SA]    |
@@ -13,6 +14,8 @@ I thought I'd compile a small list for fun.
 |CA    |Palo Alto      |Palo Alto Online     |[L][PA]    |
 |CA    |San Jose       |Mercury News         |[L][SJ]    |
 
+If you would like to contribute some, please, contribute to the [github repo][git].
+
 [SA]: https://www.saratogian.com/news/local-news/
 [LO]: https://www.losaltosonline.com/
 [MV]: https://www.mv-voice.com/news/
@@ -20,3 +23,5 @@ I thought I'd compile a small list for fun.
 [PA]: https://www.paloaltoonline.com/
 [SJ]: https://www.mercurynews.com/
 [CP]: https://cupertinotoday.com/
+
+[git]: https://github.com/JulianKnodt/julianknodt.github.io
