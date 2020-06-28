@@ -24,8 +24,24 @@ issue, or make a pull request! I'll get to 'em eventually.
 
 - [Ink Renderer](http://ink-renderer.herokuapp.com/)
   - [Github](https://github.com/JulianKnodt/gfx-final-project)
+  - Final Project for [graphics](https://www.cs.princeton.edu/courses/archive/spring20/cos426/)
 - [Square Heap](https://github.com/JulianKnodt/sqr_heap)
-- [Raytracer](https://github.com/JulianKnodt/ray_weekend)
+  - An experiment with modifying the number of children for a heap. See readme for more info
+- [Mireba](https://github.com/JulianKnodt/mireba)
+  - A photorealistic raytracer based on [Mitsuba](https://www.mitsuba-renderer.org/). WIP.
+- [quick maths](https://github.com/JulianKnodt/quick_maths)
+  - A simple math library for use with mireba. Hopefully I can continue to upgrade to be more
+    full-fledged for general purpose use but right now it's designed for graphics.
+- [Mat-FST](https://github.com/JulianKnodt/mat-fst)
+  - An experiment for using [Finite State Transducers](https://github.com/BurntSushi/fst) as
+    sparse matrices. Check out the readme for more info.
+- [Small-SAT](https://github.com/JulianKnodt/small_sat)
+  - A concurrent SAT solver based on MiniSAT. Exploring the idea of having multiple threads, but
+    would've been a lot better if I had known Rust better at the time. Still learned a lot from
+    it though.
+- [artPanel](https://github.com/JulianKnodt/artPanel)
+  - A fun CLI util to render images in terminal with color. If you're in terminal all the time
+    and find it bland you can run this in the background to lighten things up.
 
 ## Other Stuff
 
@@ -33,6 +49,7 @@ issue, or make a pull request! I'll get to 'em eventually.
 - [Non-YT Music](other_music.md)
 - [Local News List](local_news_list.md)
 
+<!--
 ## Random Questions
 Since I spend a good amount of time just thinking about things, I've accumulated a lot of
 questions which I haven't really found the answer to. I find them worth spending some time
@@ -52,3 +69,4 @@ in the first place.
   music while happy?
 
 - Assuming that irreversible climate change occurs, then what?
+-->
