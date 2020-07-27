@@ -14,6 +14,7 @@ issue, or make a pull request! I'll get to 'em eventually.
 
 - [Classes](classes.md)
 - [Random Sparsity Pattern Ideas](sparsity_patterns.md)
+- [Unrealistic Algorithmic Analysis](unrealistic_algorithmic_analysis.md)
 
 ## Code
 
