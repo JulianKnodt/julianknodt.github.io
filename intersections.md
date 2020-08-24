@@ -40,7 +40,7 @@ let k = (1 + (r*r)/(l*l)) in
 (P-C)^T(P-C) = h * h * k;
 -> (P-C)^T(P-C) = k*(P-C)^T(V) V^T(P-C);
 -> (P-C)^T(P-C) - k*(P-C)^T (VV^T) (P-C) = 0;
--> (P-C)(I-kVV^T)(P-C) = 0;
+-> (P-C)^(I-kVV^T)(P-C) = 0;
 ```
 At this point we would like to substitute the ray equation for P;
 ```
