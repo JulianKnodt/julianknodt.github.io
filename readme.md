@@ -45,6 +45,11 @@ issue, or make a pull request! I'll get to 'em eventually.
   - A fun CLI util to render images in terminal with color. If you're in terminal all the time
     and find it bland you can run this in the background to lighten things up.
 
+## Games
+
+- [Starmine](https://julianknodt.github.io/starmine.html)
+  - A space shooter resource gathering game
+
 ## Other Stuff
 
 - [Music!](playlist.md)
