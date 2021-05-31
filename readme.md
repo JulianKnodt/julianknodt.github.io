@@ -16,6 +16,7 @@ issue, or make a pull request! I'll get to 'em eventually.
 - [Random Sparsity Pattern Ideas](sparsity_patterns.md)
 - [Unrealistic Algorithmic Analysis](unrealistic_algorithmic_analysis.md)
 - [Useless blog posts](useless_blogs.md)
+- [Teaching with Writing?](writing.md)
 
 ## Code
 
