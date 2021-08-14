@@ -1,14 +1,16 @@
 # Hi.
 
-Wassup, these are just random thoughts or opinions I have.
-Take them seriously at your own risk, y'all would just be listening to a person trying to find
-his own way through life.
-Thus, chew on these marbles of my thoughts, roll them around in your mouth, and digest them at
-your own pace.
-If you have any suggestions, go to the [github repo][github repo] for this page, and file an
-issue, or make a pull request! I'll get to 'em eventually.
+Hey, these are just random thoughts or opinions I have.
+If you have any suggestions on what to write about or questions, go to the [github repo][github
+repo] for this page, and file an issue, or make a pull request! I'll get to 'em eventually.
 
 [github repo]: https://github.com/JulianKnodt/julianknodt.github.io
+
+The music I recommend recently (8/6/21) is:
+[悪者](https://www.youtube.com/watch?v=X_L8HGd7fpw)
+[My Silly Friend](https://www.youtube.com/watch?v=LjyFSf0gX5M)
+
+I thought it'd be nice to recommend something since the list of music I have at the bottom is too large.
 
 ## Writings:
 
@@ -18,6 +20,7 @@ issue, or make a pull request! I'll get to 'em eventually.
 - [Useless blog posts](useless_blogs.md)
 - [Teaching with Writing?](writing.md)
 - [Graphics Problems](graphics_problems.md)
+- [Why I learned Rust and Why I work on it](rust01.md)
 
 ## Code
 
