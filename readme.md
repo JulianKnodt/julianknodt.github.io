@@ -8,9 +8,9 @@ repo] for this page, and file an issue, or make a pull request! I'll get to 'em 
 ![Trippy](images/fieldgan3.gif)
 
 
-The music I recommend recently (8/6/21) is:
-[悪者](https://www.youtube.com/watch?v=X_L8HGd7fpw)
-[My Silly Friend](https://www.youtube.com/watch?v=LjyFSf0gX5M)
+The music I recommend recently (9/24/21) is:
+
+- [Kupla - Life Forms](https://www.youtube.com/watch?v=Mn4xQdrczao)
 
 I thought it'd be nice to recommend something since the list of music I have at the bottom is too large.
 
