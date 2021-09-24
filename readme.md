@@ -4,7 +4,9 @@ Hey, these are just random thoughts or opinions I have.
 If you have any suggestions on what to write about or questions, go to the [github repo][github
 repo] for this page, and file an issue, or make a pull request! I'll get to 'em eventually.
 
-[github repo]: https://github.com/JulianKnodt/julianknodt.github.io
+![Trippy](images/fieldgan2.gif)
+![Trippy](images/fieldgan3.gif)
+
 
 The music I recommend recently (8/6/21) is:
 [悪者](https://www.youtube.com/watch?v=X_L8HGd7fpw)
@@ -84,3 +86,5 @@ in the first place.
 
 - Assuming that irreversible climate change occurs, then what?
 -->
+
+[github repo]: https://github.com/JulianKnodt/julianknodt.github.io
