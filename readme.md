@@ -7,6 +7,8 @@ repo] for this page, and file an issue, or make a pull request! I'll get to 'em 
 ![Trippy](images/fieldgan2.gif)
 ![Trippy](images/fieldgan3.gif)
 
+![Slice of an SDF](images/sdf_slice.gif)
+
 
 The music I recommend recently (9/24/21) is:
 
