@@ -10,8 +10,9 @@ repo] for this page, and file an issue, or make a pull request! I'll get to 'em 
 ![Slice of an SDF](images/sdf_slice.gif)
 
 
-The music I recommend recently (9/24/21) is:
+The music I recommend recently (10/25/21) is:
 
+- [Maybe - Sarah Kang](https://www.youtube.com/watch?v=YnTUALVgGnQ)
 - [Kupla - Life Forms](https://www.youtube.com/watch?v=Mn4xQdrczao)
 
 I thought it'd be nice to recommend something since the list of music I have at the bottom is too large.
@@ -63,32 +64,22 @@ I thought it'd be nice to recommend something since the list of music I have at 
 
 ##### Internships:
 
-Winter + Summer '16-'17:
-
-- [Brigade](https://en.wikipedia.org/wiki/Brigade_Media)
+Winter thru Summer '17: [Brigade](https://en.wikipedia.org/wiki/Brigade_Media)
   - Android Development (Kotlin) & GraphQL (Node) + Ruby on Rails
 
-Summer '18:
-
-- Paypal
+Summer '18: Paypal
   - GraphQL (Node)
 
-Summer '19:
-
-- Google
+Summer '19: Google
   - Testing liveliness of servers (Golang)
 
-Summer '21:
-
-- [Tailscale](https://tailscale.com/)
+Summer '21: [Tailscale](https://tailscale.com/)
   - Add new port mapping protocols, Routing Server metrics (Golang)
   - See commits [here](https://github.com/tailscale/tailscale/pulls?q=is%3Apr+author%3Ajulianknodt)
 
 ##### Research:
 
-Summer '20:
-
-- [Princeton Computational Imaging Lab](https://light.princeton.edu/)
+Summer '20: [Princeton Computational Imaging Lab](https://light.princeton.edu/)
   - Mitsuba implement time of flight gating (C++)
 
 [Arxiv!](https://arxiv.org/search/?query=julian+knodt&searchtype=all&source=header)
