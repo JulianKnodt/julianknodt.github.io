@@ -59,6 +59,43 @@ I thought it'd be nice to recommend something since the list of music I have at 
 - [Starmine](https://julianknodt.github.io/starmine.html)
   - A space shooter resource gathering game
 
+## Where I've worked
+
+##### Internships:
+
+Winter + Summer '16-'17:
+
+- [Brigade](https://en.wikipedia.org/wiki/Brigade_Media)
+  - Android Development (Kotlin) & GraphQL (Node) + Ruby on Rails
+
+Summer '18:
+
+- Paypal
+  - GraphQL (Node)
+
+Summer '19:
+
+- Google
+  - Testing liveliness of servers (Golang)
+
+Summer '21:
+
+- [Tailscale](https://tailscale.com/)
+  - Add new port mapping protocols, Routing Server metrics (Golang)
+  - See commits [here](https://github.com/tailscale/tailscale/pulls?q=is%3Apr+author%3Ajulianknodt)
+
+##### Research:
+
+Summer '20:
+
+- [Princeton Computational Imaging Lab](https://light.princeton.edu/)
+  - Mitsuba implement time of flight gating (C++)
+
+[Arxiv!](https://arxiv.org/search/?query=julian+knodt&searchtype=all&source=header)
+
+<!-- TODO list papers individually -->
+
+
 ## Other Stuff
 
 - [Music!](playlist.md)
