@@ -26,6 +26,7 @@ I thought it'd be nice to recommend something since the list of music I have at 
 - [Teaching with Writing?](writing.md)
 - [Graphics Problems](graphics_problems.md)
 - [Why I learned Rust and Why I work on it](rust01.md)
+- [Bezier Spline NeRFs](bezier_spline_nerfs.md)
 
 ## Code
 
