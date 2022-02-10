@@ -10,10 +10,9 @@ repo] for this page, and file an issue, or make a pull request! I'll get to 'em 
 ![Slice of an SDF](images/sdf_slice.gif)
 
 
-The music I recommend recently (11/19/21) is:
+Recent Music (2/10/22):
 
-- [Tame Impala - Yes I'm Changing](https://www.youtube.com/watch?v=6XKQy9HM23c)
-- [I've Become Someone Else's Girlfriend](https://www.youtube.com/watch?v=sEJKG60a1Zc)
+- [Bitter!](https://www.youtube.com/watch?v=DHuOWj7MnHM)
 
 I thought it'd be nice to recommend something since the list of music I have at the bottom is too large.
 
