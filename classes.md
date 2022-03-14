@@ -1,75 +1,89 @@
 # Classes
 
-This is just a brief summary of some of my undergraduate courses, and what I've learned. I write
-this here more so I don't forget, but hopefully it may be of some use to some people.
+I wanted to write a summary of some of the courses I've taken, as well as how I felt about them.
+It might be useful as a guide to future people taking the courses, but it may also serve as a
+personal reminder of what I've done. It will mostly focus on the _emotional_ aspect of these
+courses, and how I felt about them. The content is more easily seen in something like a
+syllabus, which is probably easier to find elsewhere.
 
-### Freshman Fall
+|Name |Year|Semester|
+|-----|----|------|
+|Intro to Systems|1|1|
+|Intro to Algorithms|1|2|
+|Functional Programming|1|2|
+|-----|----|------|
+|Discrete Math|2|1|
+|Computer Architecture|2|1|
+|Intro to ML|2|2|
+|Graph Theory|2|2|
+|-----|----|------|
+|Operating Systems|3|1|
+|Distributed Systems|3|1|
+|Theorem Provers|3|1|
+|Independent Work|3|1|
 
-This was my first semester, so I was taking a lot of prerequisite courses. I omitted two for
-concise-ness.
+## First Year
 
-- Introduction to Systems
+## Intro to Systems
 
-In this class, I learned the basics of C, including pointer manipulation. Unfortunately, it was
-taught under the assumption that we were using C90 or some older standard, under the pretense
-that some systems still ran that. In addition the assignments were as follows:
+This class was by far the shittiest class I've ever taken, for reasons beyond the class itself.
+Before explaining my hatred, to summarize the class, it's essentially an
+introduction to low-level programming (C + x86), as well as some common applications like an
+allocator or doing stack overflow to read hidden values from a program.
+The premise is interesting, and can be a good utility for showing students
+systems programming. I don't think the content is particularly inspiring, but it will suffice to
+help people be aware of what exists. I don't think that a _deep_ understanding is provided
+though, since the class encourages 0 discussion. My main beef with the class is that the
+professor when I took it was wholly convinced that C is a shitty, unsafe language. One of the
+questions on the final exam's entire purpose was to suggest to use Java. In a _systems_
+programming class, this is absolutely shitty. Yes, C is unsafe and dangerous, but it's also
+blazing fast. And the lecture was intended to show that "modularity" and "abstraction" are one
+of the main points of systems programming. For a standard programmar, yes, you don't care about
+what's under the hood, and you shouldn't have to if you want to stay sane. But if you _are_ the
+systems programmer, you should be curious about every detail, and want to know how to pop the trunk and
+change shit. I feel like the professor, (and due to his influence, the teaching staff), killed
+any curiosity people had in the material. Finally, the professor decided to pull the last
+assignment, which was making a Unix shell, instead making *Othello*. Fuck that noise. If the
+professor ever taught a class I might have taken after that, I avoided it. As this was my first
+CS class, it was a fantastic intro to CS courses in Uni. As compared to self-learning the
+concepts, draining and the course content does not care about the end result.
 
-1. Build a program that removes winged comments from files
-The general idea of this assignment was to use a DFA(Deterministic Finite Automata AKA a state
-diagram) and help teach C's general syntax. I found it to be excessive in the strictness of the
-completeness of the DFA, because it made it much harder to implement certain cases assuming that
-lookaheads weren't allowed.
-2. Reimplement parts of `string.h`
-This was fairly normal. The main thing I remember was talking to my TA about having `strlen(s)`
-as the terminating conditional in a for loop. I made the assumption that the compiler would optimize
-this into a constant outside of the loop, and it improved readability. I was told that this
-could not be assumed, even though I'm still fairly sure I'm correct.
-3. Implement a table which maps pointers to pointers.
-4. Implement a fast fibonacci algorithm on an implementation of arbitrary precision numbers in
-x86. In later versions of this course, it was updated to ARM with different objectives.
+## Intro to Algorithms
 
-I think the choice to move to ARM was a smart one, as the main part of this assignment was
-understanding the flags updated and changed by each instruction, and familiarizing myself with
-the x86 ISA(instruction set architecture). I think the original assignment was super fun to
-optimize, albeit awful to debug.
-5. Build a set of files which when passed into a specific program cause it overflow and execute
-arbitrary code.
-6. Build a simple heap manager
-I found this assignment to be too pipelined, in that the instructors gave way too much direction
-in what to do, without letting students actually think about how to do it themselves. I often
-considered emailing a TA with a reference to
-[this](https://www.cs.cmu.edu/~bryant/pubdir/sigcse18.pdf), but I hesitate because I didn't
-think they would receive it well.
+I don't feel anything particularly strong about this class. A lot of people who are interested
+in CS will take this class out of interest, so a lot of the content is designed to be good for
+people across the board. Thus, there's a significant amount of busy work, writing down
+algorithms and solving them manually every friday, pre-recorded lectures before COVID was hip.
+I found this mass-served content to not be particularly interesting, and that most of the
+content could be useful, but I couldn't tell at the tiem if it was or wasn't. Even in
+retrospect, I'm not sure whether anything I learned was good. I also realize part of the class
+was still teaching people how to program, and making people more confident in their ability to
+program. One thing I'd also note about this course (and Intro to Systems), is that there is a
+significant amount of hand-holding. To be specific, you can go to office hours, and they will
+help you debug, figuring out what is wrong with your understanding, and helping you find bugs in
+your code. I feel that this kind of hand-holding ends up getting un-learned in later classes,
+where there aren't enough resources for the admin to maintain it (and they shouldn't maintain it
+either). Probably, the most egregious thing is either papering over someone's understanding, or
+figuring out their understanding for them. The one thing I enjoyed from the course was a
+competitive aspect, since there were leaderboards. I found I could just focus on the systems
+component, either adding built in parallelism, optimizing for the Java GC, using bitwise
+operations, and that would be sufficient to do well (which might be antithetical to the course).
+But doing shit that isn't intended is always the most fun.
 
-7. Implement a multi-threaded Othello
-This was the first time they tried this assignment, in lieu of making a shell. To me, the shell
-would have been way more interesting, and actually further CS knowledge in that area. It was fun
-to work on this for me though, because I made a Golang-esque abstraction for creating threads,
-and thinking about how to build that made it fun. I think this was returned back to working on a shell,
-and I hope that the next generation can do that instead.
+## Functional Programming
 
-- Multivariable Calculus
+I felt this class to be mostly lackluster, although it may be more useful depending on what
+field of programming/research someone is focusing on. The first few assignments are mostly just
+focusing on OCaML (which is a shitty language, fuck you Jane Street). That's fine, it can be
+difficult to learn functional paradigms, but I think the assignments basically only taught
+syntax, whereas they could've also been more compressed in terms of adding in components of
+mutual recursion, continuation-passing-style, or other things. As compared to seeing Lisp, I
+felt like my mind was not bent so much, although this may have been affected since I had seen
+Lisp before. Other than that, we also did proofs on programs, which from a research POV may be
+useful, but from a practicality perspective is pretty useless. The final assignment was
+semi-interesting, since we had to do parallelized map and reduce operations in F\#, which seemed
+a bit more interesting. Generally, the course is fine, but I don't know if it was necessary that
+I did it. Meh, whatever.
 
-I took this course as a prerequisite to engineering. I found it to be not immediately applicable
-to anything I've done thus far, but it definitely has its uses. I don't think I was as good at
-math when I took this course, and I definitely would've spent more time trying to conceptualize
-it now looking back. I don't think it's anywhere near as important as linear algebra. I really
-enjoyed my Professor in this class though, because he would force everyone to talk, by going
-around and asking us all a bit about how something worked. It might've been a little too much at
-times, especially since not everyone was as strong at math as this was a pre-req class, but I
-found it to keep the class engaging.
 
-- History of Pirates
 
-Yooooo, this class was dope. It was a seminar class offered only to first years, and I took it
-on the recommendation of someone that I get out of my comfort zone. I definitely was not the
-most historically versed person in that class, but I had a great time reading about the pirates
-in both the Mediterranean and the Caribbeans. Not only were their adventures crazy in that a
-couple hundred pirates would capture whole cities, but it was crazy to see how they actually
-acted in a very democratic manner, where as most people have been trained to see pirates as
-tyrannical and lawless. Pirates had honor amongst themselves, and the kinship they had during
-their trials at sea is unimaginable to me.
-
-### Freshman Spring
-
-TODO
