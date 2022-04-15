@@ -1,7 +1,7 @@
 # Hi.
 
 Hey, these are just random thoughts or opinions I have.
-If you have any suggestions on what to write about or questions, go to the [github repo][github
+If you have any comments or questions on what to write about or questions, go to the [github repo][github
 repo] for this page, and file an issue, or make a pull request! I'll get to 'em eventually.
 
 ![Trippy](images/fieldgan2.gif)
@@ -12,7 +12,7 @@ repo] for this page, and file an issue, or make a pull request! I'll get to 'em 
 
 Recent Music (2/10/22):
 
-- [Bitter!](https://www.youtube.com/watch?v=DHuOWj7MnHM)
+- [Eleanor Rigby (Cody Fry)](https://www.youtube.com/watch?v=09BkpkZsuF4&ab_channel=CodyFry-Topic)
 
 I thought it'd be nice to recommend something since the list of music I have at the bottom is too large.
 
@@ -118,3 +118,8 @@ in the first place.
 -->
 
 [github repo]: https://github.com/JulianKnodt/julianknodt.github.io
+
+Questions?
+
+[Email](mailto:julianknodt@gmail.com)
+
