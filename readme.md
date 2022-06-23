@@ -9,7 +9,7 @@ Hey, these are just random thoughts or opinions I have.
 If you have any comments or questions on what to write about or questions, go to the [github repo][github
 repo] for this page, and file an issue, or make a pull request! I'll get to 'em eventually.
 
-<table>
+<table style="table-layout:fixed;">
 <!-- Row 1 -->
 <tr>
 <th>
@@ -42,15 +42,16 @@ repo] for this page, and file an issue, or make a pull request! I'll get to 'em 
   - A meta blog post about blog posts which have no meaning, i.e. the 10th blog to explain
     React.
 
-<!-- - [Teaching with Writing?](writing.md) -->
-- [Graphics Problems](graphics_problems.md)
-- [Why I learned Rust and Why I work on it](rust01.md)
-- [Bezier Spline NeRFs](bezier_spline_nerfs.md)
-- [Classes](classes.md)
+<!-- - [Teaching with Writing?](writings/writing.md) -->
+- [Graphics Problems](writings/graphics_problems.md)
+- [Why I learned Rust and Why I work on it](writings/rust01.md)
+- [Bezier Spline NeRFs](writings/bezier_spline_nerfs.md)
+- [Classes](writings/classes.md)
 </div>
 
 </td>
 <td>
+<div markdown="1">
 
 - [Ink Renderer](http://ink-renderer.herokuapp.com/)
   - [Github](https://github.com/JulianKnodt/gfx-final-project)
@@ -73,6 +74,7 @@ repo] for this page, and file an issue, or make a pull request! I'll get to 'em 
   - A fun CLI util to render images in terminal with color. If you're in terminal all the time
     and find it bland you can run this in the background to lighten things up.
 
+</div>
 </td>
 </tr>
 
@@ -121,31 +123,4 @@ Summer '20: [Princeton Computational Imaging Lab](https://light.princeton.edu/)
 
 ![Site Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjulianknodt.github.io&count_bg=%2379C83D&title_bg=%23144FDF&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
-<!--
-## Random Questions
-Since I spend a good amount of time just thinking about things, I've accumulated a lot of
-questions which I haven't really found the answer to. I find them worth spending some time
-thinking on, not just for the answer, but for thinking about why I even thought of the question
-in the first place.
-
-- Does writing code increase one's knowledge? Or is it merely an application of existing
-  knowledge?
-
-- Does knowing about logical fallacies help prevent us from making them?
-
-- Do phones decrease reading comprehension? This could be due to unnecessary information that
-  people have now started to ignore such as privacy policies, notifications, or ads.
-
-- Is it more agreeable(however you choose to define "agreeable") to listen to music that matches
-  a mood or to listen to music that contradicts it, i.e. listening to blues while sad or pop
-  music while happy?
-
-- Assuming that irreversible climate change occurs, then what?
--->
-
-[github repo]: https://github.com/JulianKnodt/julianknodt.github.io
-
-Questions?
-
-[Email](mailto:julianknodt@gmail.com)
 
