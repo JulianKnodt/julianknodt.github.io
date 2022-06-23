@@ -1,38 +1,56 @@
-# Hi.
+![new](https://web.archive.org/web/20090829095811/http://geocities.com/uspa.geo/new6.gif)
+
+- [Github!](https://github.com/JulianKnodt)
+- Email: julianknodt![@](https://web.archive.org/web/20091027135937/http://geocities.com/prakobkit/new/mail.gif)gmail.com
+
+---
 
 Hey, these are just random thoughts or opinions I have.
 If you have any comments or questions on what to write about or questions, go to the [github repo][github
 repo] for this page, and file an issue, or make a pull request! I'll get to 'em eventually.
 
-![Trippy](images/fieldgan2.gif)
-![Trippy](images/fieldgan3.gif)
+<table>
+<!-- Row 1 -->
+<tr>
+<th>
 
-![Slice of an SDF](images/sdf_slice.gif)
+# Writings:
 
+</th>
+<th>
 
-Recent Music (2/10/22):
+# Projects:
 
-- [Eleanor Rigby (Cody Fry)](https://www.youtube.com/watch?v=09BkpkZsuF4&ab_channel=CodyFry-Topic)
+</th>
+</tr>
+<!-- Row 2 -->
 
-I thought it'd be nice to recommend something since the list of music I have at the bottom is too large.
+<tr>
+<td>
+<div markdown="1">
 
-## Writings:
-
-- [Classes](classes.md)
 - [Random Sparsity Pattern Ideas](sparsity_patterns.md)
+  - Exploration of idea for sparsity in matrices, random thoughts.
+
 - [Unrealistic Algorithmic Analysis](unrealistic_algorithmic_analysis.md)
+  - I'm a bit disappointed in how big `O` analysis is often not useful, because it ends up
+    ignoring the architecture of computers and how data caches work. This is a rant about how
+    there may be more feasible ways to measure complexity, by keeping costs of different
+    operations such as arithmetic/memory accesses separate.
+
 - [Useless blog posts](useless_blogs.md)
-- [Teaching with Writing?](writing.md)
+  - A meta blog post about blog posts which have no meaning, i.e. the 10th blog to explain
+    React.
+
+<!-- - [Teaching with Writing?](writing.md) -->
 - [Graphics Problems](graphics_problems.md)
 - [Why I learned Rust and Why I work on it](rust01.md)
 - [Bezier Spline NeRFs](bezier_spline_nerfs.md)
+- [Classes](classes.md)
+</div>
 
-## Code
-
-- [Graphics Template](graphics_template.md)
-<!-- - [City 2D](city_2d.md) -->
-
-## Projects
+</td>
+<td>
 
 - [Ink Renderer](http://ink-renderer.herokuapp.com/)
   - [Github](https://github.com/JulianKnodt/gfx-final-project)
@@ -54,6 +72,14 @@ I thought it'd be nice to recommend something since the list of music I have at 
 - [artPanel](https://github.com/JulianKnodt/artPanel)
   - A fun CLI util to render images in terminal with color. If you're in terminal all the time
     and find it bland you can run this in the background to lighten things up.
+
+</td>
+</tr>
+
+<!-- End table -->
+</table>
+
+
 
 ## Games
 
