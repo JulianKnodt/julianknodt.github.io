@@ -1,5 +1,3 @@
-![new](https://web.archive.org/web/20090829095811/http://geocities.com/uspa.geo/new6.gif)
-
 - [My Github!](https://github.com/JulianKnodt)
 - Email: julianknodt![@](https://web.archive.org/web/20091027135937/http://geocities.com/prakobkit/new/mail.gif)gmail.com
 
@@ -55,6 +53,8 @@ Projects:
   - A meta blog post about blog posts which have no meaning, i.e. the 10th blog to explain
     React.
 
+- ![new][new] [A way to reduce Registry Bloat](writings/registry_market.md)
+
 <!-- - [Teaching with Writing?](writings/writing.md) -->
 - [Graphics Problems](writings/graphics_problems.md)
 - [Why I learned Rust and Why I work on it](writings/rust01.md)
@@ -104,6 +104,12 @@ to run games. I've had moderate success, but will share what I make here!
 
 - [Starmine](https://julianknodt.github.io/starmine.html)
   - A space shooter resource gathering game
+
+- [Sozu](https://julianknodt.github.io/sozu.html)
+  - A Sozu (deer-scare) simulator
+
+- [Slime Ball](https://julianknodt.github.io/shoot.html)
+  - Kick a ball around as a slime
 
 ## Work History
 
@@ -163,4 +169,5 @@ years, so I hope that while listening to it, you can experience some of what I'v
 ![Site Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjulianknodt.github.io&count_bg=%2379C83D&title_bg=%23144FDF&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
 [github repo]: https://github.com/JulianKnodt/julianknodt.github.io
+[new]: https://web.archive.org/web/20090829095811/http://geocities.com/uspa.geo/new6.gif
 
