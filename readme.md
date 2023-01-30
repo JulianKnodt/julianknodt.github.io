@@ -53,7 +53,8 @@ Projects:
   - A meta blog post about blog posts which have no meaning, i.e. the 10th blog to explain
     React.
 
-- ![new][new] [A way to reduce Registry Bloat](writings/registry_market.md)
+- [A way to reduce Registry Bloat](writings/registry_market.md)
+- ![new][new][An intro to Raytracing](writings/raytracing.md)
 
 <!-- - [Teaching with Writing?](writings/writing.md) -->
 - [Graphics Problems](writings/graphics_problems.md)
