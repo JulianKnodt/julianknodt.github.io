@@ -112,6 +112,11 @@ to run games. I've had moderate success, but will share what I make here!
 - [Slime Ball](https://julianknodt.github.io/shoot.html)
   - Kick a ball around as a slime
 
+- [Infinite Runner](https://julianknodt.github.io/runner.html)
+  - The first Pico-8 game I made (2019)
+  - Revived thanks to help from the [Pico-8 forum!](https://www.lexaloffle.com/bbs/?pid=132231#p)
+  - Jump around, jump up, jump up, and get down
+
 ## Work History
 
 For those interested in hiring me,
