@@ -54,7 +54,7 @@ Projects:
     React.
 
 - [A way to reduce Registry Bloat](writings/registry_market.md)
-- ![new][new][An intro to Raytracing](writings/raytracing.md)
+- [An intro to Raytracing](writings/raytracing.md)
 
 <!-- - [Teaching with Writing?](writings/writing.md) -->
 - [Graphics Problems](writings/graphics_problems.md)
@@ -158,6 +158,11 @@ Summer '20: [Princeton Computational Imaging Lab](https://light.princeton.edu/)
   - Mitsuba implement time of flight gating (C++)
 
 [Arxiv!](https://arxiv.org/search/?query=julian+knodt&searchtype=all&source=header)
+
+2023: ![new][new] Joint UV Optimization and Texture Baking
+  - Julian Knodt, Zherong Pan, Kui Wu, Xifeng Gao
+  - [ACM](https://dl.acm.org/doi/10.1145/3617683)
+  - TODO: blogpost
 
 <!-- TODO list papers individually -->
 
