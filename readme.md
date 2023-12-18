@@ -162,7 +162,7 @@ Summer '20: [Princeton Computational Imaging Lab](https://light.princeton.edu/)
 2023: ![new][new] Joint UV Optimization and Texture Baking
   - Julian Knodt, Zherong Pan, Kui Wu, Xifeng Gao
   - [ACM](https://dl.acm.org/doi/10.1145/3617683)
-  - TODO: blogpost
+  - [Blog Post](papers/joint_uv_optimization_and_texture_baking)
 
 <!-- TODO list papers individually -->
 
