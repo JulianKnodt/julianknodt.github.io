@@ -182,3 +182,6 @@ years, so I hope that while listening to it, you can experience some of what I'v
 [github repo]: https://github.com/JulianKnodt/julianknodt.github.io
 [new]: https://web.archive.org/web/20090829095811/http://geocities.com/uspa.geo/new6.gif
 
+### Links!
+
+- [https://math.mit.edu/~byronc/index.html](Byron)
