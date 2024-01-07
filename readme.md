@@ -8,10 +8,9 @@ I'm broadly interested in graphics (physically based rendering), compilers (Rust
 operating systems, and how people interact with social networks. I also dabble in
 machine learning, when it's small enough to run on my 2010 GPU.
 
-Outside of programming, I _try to_ spend my time learning about philosophy (specifically
-ethics), attempting to cook and bake, taking stupidly long walks around my neighborhood, and
-fencing. I'm still exploring what it's like to be free from the shackles of school, so I'm
-exploring many new activities 🙇.
+Outside of programming, I _try to_ spend my time attempting to cook and bake,
+taking stupidly long walks around my neighborhood, and fencing. I'm still exploring
+many new activities 🙇, so if there's anything neat to do feel free to reach out.
 
 If you're looking to collaborate on something, want to get coffee/tea, or are just generally
 interested in chatting, email me! I'm all over the place, but am currently near Seattle for a
@@ -61,6 +60,8 @@ Projects:
 - [Why I learned Rust and Why I work on it](writings/rust01.md)
 - [Bezier Spline NeRFs](writings/bezier_spline_nerfs.md)
 - [Classes](writings/classes.md)
+
+- [2024 Weekly Writings](writings/2024/index.md)
 </div>
 
 </td>

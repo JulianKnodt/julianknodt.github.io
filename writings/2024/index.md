@@ -1,0 +1,1 @@
+- 1: [Writing every week](resolution.md)
