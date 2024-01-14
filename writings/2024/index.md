@@ -1,1 +1,2 @@
 - 1: [Writing every week](resolution.md)
+- 2: [Comedy](week_2_comedy.md)
