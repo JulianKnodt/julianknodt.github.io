@@ -1,2 +1,3 @@
 - 1: [Writing every week](resolution.md)
 - 2: [Comedy](week_2_comedy.md)
+- 3: [Mixed Race](week_3_mixed_race.md)
