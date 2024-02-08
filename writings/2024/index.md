@@ -2,3 +2,4 @@
 - 2: [Comedy](week_2_comedy.md)
 - 3: [Mixed Race](week_3_mixed_race.md)
 - 4: [Teeth](week_4_teeth.md)
+- 5: [Seattle Chinatown](week_5_seattle_chinatown.md)
