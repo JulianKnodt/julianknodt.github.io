@@ -3,3 +3,4 @@
 - 3: [Mixed Race](week_3_mixed_race.md)
 - 4: [Teeth](week_4_teeth.md)
 - 5: [Seattle Chinatown](week_5_seattle_chinatown.md)
+- 6: [Roman Dodecahedron](week_6_roman_dodecahedron.md)
