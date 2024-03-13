@@ -6,3 +6,4 @@
 - 6: [Roman Dodecahedron](week_6_roman_dodecahedron.md)
 - 7: [British Comedy (Week 2 Edit)](week_2_comedy.md)
 - 8: [FBX is Fuck](week_8_fbx_is_fuck.md)
+- 9: Ask me for this one
