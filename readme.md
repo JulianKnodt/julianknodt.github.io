@@ -1,6 +1,10 @@
 - [My Github!](https://github.com/JulianKnodt)
 - Email: julianknodt![@](https://web.archive.org/web/20091027135937/http://geocities.com/prakobkit/new/mail.gif)gmail.com
 
+![Cory Wong](images/cory_wong.jpg)
+
+Me and Cory Wong! I was standing weirdly because I was nervous taking a picture with him.
+
 ---
 
 Hey, I'm a programmer who is interested in a myriad number of things!
@@ -186,3 +190,5 @@ years, so I hope that while listening to it, you can experience some of what I'v
 ### Links!
 
 - [https://math.mit.edu/~byronc/index.html](Byron)
+
+#![Piet Mondrian](images/fieldgan2.gif)
