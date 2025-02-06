@@ -189,6 +189,10 @@ years, so I hope that while listening to it, you can experience some of what I'v
 
 ### Links!
 
-- [https://math.mit.edu/~byronc/index.html](Byron)
+- [https://math.mit.edu/~byronc/index.html](Byron, Math Wizard)
+- [https://ogthoughts.github.io/](The OG)
+- [https://xanderk.ooo/](Xander, Programmer & Japanese)
+- [https://janepan9917.github.io/](Jane, NLP 👷)
+- [https://ilyac.info/](The Memelord and Visionary)
 
 #![Piet Mondrian](images/fieldgan2.gif)
