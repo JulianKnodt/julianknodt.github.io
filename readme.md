@@ -189,10 +189,11 @@ years, so I hope that while listening to it, you can experience some of what I'v
 
 ### Links!
 
-- [https://math.mit.edu/~byronc/index.html](Byron, Math Wizard)
-- [https://ogthoughts.github.io/](The OG)
-- [https://xanderk.ooo/](Xander, Programmer & Japanese)
-- [https://janepan9917.github.io/](Jane, NLP 👷)
-- [https://ilyac.info/](The Memelord and Visionary)
+- [The OG](https://ogthoughts.github.io/)
+- [Jane, NLP 👷](https://janepan9917.github.io/)
+- [Chuck](http://charliemsmith.com/) & [His Cheesy Goodness](http://charliemsmith.com/curdle/)
+- [The Memelord and Visionary](https://ilyac.info/)
+- [Xander, Programmer & 🇯🇵](https://xanderk.ooo/)
+- [Byron, Math 🧙](https://math.mit.edu/~byronc/index.html)
 
 #![Piet Mondrian](images/fieldgan2.gif)
