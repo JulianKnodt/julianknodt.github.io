@@ -30,8 +30,7 @@ taking stupidly long walks around my neighborhood, and fencing. I'm still explor
 many new activities 🙇, so if there's anything neat to do feel free to reach out.
 
 If you're looking to collaborate on something, want to get coffee/tea, or are just generally
-interested in chatting, email me! I'm all over the place, but am currently near Seattle for a
-brief stint, but am usually in the Bay Area.
+interested in chatting, email me! I'm all over the place, so see above for where I am currently.
 
 If you have any comments or questions on my writing, go to the [github repo][github repo] for
 this page, and file an issue, or make a pull request! I'll get to 'em eventually.
