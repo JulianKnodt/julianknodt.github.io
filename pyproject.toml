@@ -1,0 +1,9 @@
+[project]
+name = "julianknodt-github-io"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "yt-dlp>=2025.2.19",
+]

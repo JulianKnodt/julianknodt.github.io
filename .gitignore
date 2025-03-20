@@ -4,3 +4,5 @@ Gemfile.lock
 gemfile
 .jekyll-cache/
 .DS_Store
+cache.json
+*.mw
