@@ -195,6 +195,9 @@ years, so I hope that while listening to it, you can experience some of what I'v
 - [Non-YT Music](other_music.md)
 - [Music Timeline](yt_timeline.html)
 
+<iframe src="yt_timeline.html" width="800" height="512">
+</iframe>
+
 ![Site Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjulianknodt.github.io&count_bg=%2379C83D&title_bg=%23144FDF&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
 [github repo]: https://github.com/JulianKnodt/julianknodt.github.io
@@ -209,4 +212,4 @@ years, so I hope that while listening to it, you can experience some of what I'v
 - [Xander, Programmer & 🇯🇵](https://xanderk.ooo/)
 - [Byron, Math 🧙](https://math.mit.edu/~byronc/index.html)
 
-#![Piet Mondrian](images/fieldgan2.gif)
+![Piet Mondrian](images/fieldgan2.gif)
