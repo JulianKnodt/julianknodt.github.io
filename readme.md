@@ -206,7 +206,7 @@ years, so I hope that while listening to it, you can experience some of what I'v
 ### Links!
 
 - [The OG](https://ogthoughts.github.io/)
-- [Jane, NLP 👷](https://janepan9917.github.io/)
+- [Jane, NLP 🪿](https://janepan9917.github.io/)
 - [Chuck](http://charliemsmith.com/) & [His Cheesy Goodness](http://charliemsmith.com/curdle/)
 - [The Memelord and Visionary](https://ilyac.info/)
 - [Xander, Programmer & 🇯🇵](https://xanderk.ooo/)
