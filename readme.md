@@ -141,7 +141,6 @@ I've worked at a variety of places, on system software,
 and am mostly interested in backend/low-level software or research!
 
 
-
 <details>
 <summary>Where I've worked:</summary>
 
@@ -194,6 +193,7 @@ years, so I hope that while listening to it, you can experience some of what I'v
 - [Music!](playlist.md)
 - [Non-YT Music](other_music.md)
 - [Music Timeline](yt_timeline.html)
+- [Half Marathon Prep](half_marathon_prep.md)
 
 <iframe src="yt_timeline.html" width="800" height="512">
 </iframe>
