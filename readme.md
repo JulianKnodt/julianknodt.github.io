@@ -211,5 +211,6 @@ years, so I hope that while listening to it, you can experience some of what I'v
 - [The Memelord and Visionary](https://ilyac.info/)
 - [Xander, Programmer & 🇯🇵](https://xanderk.ooo/)
 - [Byron, Math 🧙](https://math.mit.edu/~byronc/index.html)
+- [Lilly, sufferer of oncall 🪟🫠](https://lillymeng.com/)
 
 ![Piet Mondrian](images/fieldgan2.gif)
