@@ -214,3 +214,5 @@ years, so I hope that while listening to it, you can experience some of what I'v
 - [Lilly, sufferer of oncall 🪟🫠](https://lillymeng.com/)
 
 ![Piet Mondrian](images/fieldgan2.gif)
+
+TMP: https://docs.google.com/presentation/d/1uffYrB2Pb3OzCvE_yFEIarLWCHGBqp084ge5b5yoSK4/edit?usp=sharing
