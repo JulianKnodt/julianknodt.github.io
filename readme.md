@@ -215,4 +215,5 @@ years, so I hope that while listening to it, you can experience some of what I'v
 
 ![Piet Mondrian](images/fieldgan2.gif)
 
-TMP: https://docs.google.com/presentation/d/1uffYrB2Pb3OzCvE_yFEIarLWCHGBqp084ge5b5yoSK4/edit?usp=sharing
+<!--- Flag counter -->
+<a href="https://info.flagcounter.com/O4GC"><img src="https://s05.flagcounter.com/count2/O4GC/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_20/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
