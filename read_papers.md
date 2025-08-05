@@ -17,6 +17,7 @@ A simple list of the papers I've read
 - Differentiable Surface Triangulation [URL](https://arxiv.org/pdf/2109.10695)
 - Geometry Distributions (Point Cloud Diffusion) [URL](https://arxiv.org/pdf/2411.16076)
 - Rotational Symmetry Field Design on Surfaces [URL](https://web.engr.oregonstate.edu/~zhange/images/symmetry.pdf)
+- Multi-Class Blue Noise Sampling [URL](https://www.liyiwei.org/papers/noise-sig10/paper_short.pdf)
 
 ## Papers I Mean to read:
 
