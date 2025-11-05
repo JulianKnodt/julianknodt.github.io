@@ -1,9 +1,15 @@
 - [My Github!](https://github.com/JulianKnodt)
 - Email: julianknodt![@](https://web.archive.org/web/20091027135937/http://geocities.com/prakobkit/new/mail.gif)gmail.com
 
-![Cory Wong](images/cory_wong.jpg)
+<img src="images/cory_wong.jpg" width="550" alt="Cory Wong"/>
 
 Me and Cory Wong! I was standing weirdly because I was nervous taking a picture with him.
+
+<a href="https://www.instagram.com/inccoffee2020/">
+  <img src="images/incredible_coffee.jpg" width="550" alt="INCredible Coffee"/>
+</a>
+
+
 
 <button id = "where_am_i">Where Am I</button>
 <p id="where_i_am"></p>
@@ -16,7 +22,6 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
   }
 });
 </script>
-
 
 ---
 
@@ -35,82 +40,6 @@ interested in chatting, email me! I'm all over the place, so see above for where
 If you have any comments or questions on my writing, go to the [github repo][github repo] for
 this page, and file an issue, or make a pull request! I'll get to 'em eventually.
 
-<table style="table-layout:fixed;display:inline-table;">
-<!-- Row 1 -->
-<tr>
-<th>
-
-Writings:
-
-</th>
-<th>
-
-Projects:
-
-</th>
-</tr>
-<!-- Row 2 -->
-
-<tr>
-<td>
-<div markdown="1">
-
-- [Random Sparsity Pattern Ideas](sparsity_patterns.md)
-  - Exploration of idea for sparsity in matrices, random thoughts.
-
-- [Unrealistic Algorithmic Analysis](unrealistic_algorithmic_analysis.md)
-  - I'm a bit disappointed in how big `O` analysis is often not useful, because it ends up
-    ignoring the architecture of computers and how data caches work. This is a rant about how
-    there may be more feasible ways to measure complexity, by keeping costs of different
-    operations such as arithmetic/memory accesses separate.
-
-- [Useless blog posts](useless_blogs.md)
-  - A meta blog post about blog posts which have no meaning, i.e. the 10th blog to explain
-    React.
-
-- [A way to reduce Registry Bloat](writings/registry_market.md)
-- [An intro to Raytracing](writings/raytracing.md)
-
-<!-- - [Teaching with Writing?](writings/writing.md) -->
-- [Graphics Problems](writings/graphics_problems.md)
-- [Why I learned Rust and Why I work on it](writings/rust01.md)
-- [Bezier Spline NeRFs](writings/bezier_spline_nerfs.md)
-- [Classes](writings/classes.md)
-
-- [2024 Weekly Writings](writings/2024/index.md)
-</div>
-
-</td>
-<td>
-<div markdown="1">
-
-- [Ink Renderer](http://ink-renderer.herokuapp.com/)
-  - [Github](https://github.com/JulianKnodt/gfx-final-project)
-  - Final Project for [graphics](https://www.cs.princeton.edu/courses/archive/spring20/cos426/)
-- [Square Heap](https://github.com/JulianKnodt/sqr_heap)
-  - An experiment with modifying the number of children for a heap. See readme for more info
-- [Mireba](https://github.com/JulianKnodt/mireba)
-  - A photorealistic raytracer based on [Mitsuba](https://www.mitsuba-renderer.org/). WIP.
-- [quick maths](https://github.com/JulianKnodt/quick_maths)
-  - A simple math library for use with mireba. Hopefully I can continue to upgrade to be more
-    full-fledged for general purpose use but right now it's designed for graphics.
-- [Mat-FST](https://github.com/JulianKnodt/mat-fst)
-  - An experiment for using [Finite State Transducers](https://github.com/BurntSushi/fst) as
-    sparse matrices. Check out the readme for more info.
-- [Small-SAT](https://github.com/JulianKnodt/small_sat)
-  - A concurrent SAT solver based on MiniSAT. Exploring the idea of having multiple threads, but
-    would've been a lot better if I had known Rust better at the time. Still learned a lot from
-    it though.
-- [artPanel](https://github.com/JulianKnodt/artPanel)
-  - A fun CLI util to render images in terminal with color. If you're in terminal all the time
-    and find it bland you can run this in the background to lighten things up.
-
-</div>
-</td>
-</tr>
-
-<!-- End table -->
-</table>
 
 
 
@@ -217,3 +146,82 @@ years, so I hope that while listening to it, you can experience some of what I'v
 
 <!--- Flag counter -->
 <a href="https://info.flagcounter.com/O4GC"><img src="https://s05.flagcounter.com/count2/O4GC/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_20/viewers_0/labels_1/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+
+Archive:
+
+<table style="table-layout:fixed;display:inline-table;">
+<!-- Row 1 -->
+<tr>
+<th>
+
+Writings:
+
+</th>
+<th>
+
+Projects:
+
+</th>
+</tr>
+<!-- Row 2 -->
+
+<tr>
+<td>
+<div markdown="1">
+
+- [Random Sparsity Pattern Ideas](sparsity_patterns.md)
+  - Exploration of idea for sparsity in matrices, random thoughts.
+
+- [Unrealistic Algorithmic Analysis](unrealistic_algorithmic_analysis.md)
+  - I'm a bit disappointed in how big `O` analysis is often not useful, because it ends up
+    ignoring the architecture of computers and how data caches work. This is a rant about how
+    there may be more feasible ways to measure complexity, by keeping costs of different
+    operations such as arithmetic/memory accesses separate.
+
+- [Useless blog posts](useless_blogs.md)
+  - A meta blog post about blog posts which have no meaning, i.e. the 10th blog to explain
+    React.
+
+- [A way to reduce Registry Bloat](writings/registry_market.md)
+- [An intro to Raytracing](writings/raytracing.md)
+
+<!-- - [Teaching with Writing?](writings/writing.md) -->
+- [Graphics Problems](writings/graphics_problems.md)
+- [Why I learned Rust and Why I work on it](writings/rust01.md)
+- [Bezier Spline NeRFs](writings/bezier_spline_nerfs.md)
+- [Classes](writings/classes.md)
+
+- [2024 Weekly Writings](writings/2024/index.md)
+</div>
+
+</td>
+<td>
+<div markdown="1">
+
+- [Ink Renderer](http://ink-renderer.herokuapp.com/)
+  - [Github](https://github.com/JulianKnodt/gfx-final-project)
+  - Final Project for [graphics](https://www.cs.princeton.edu/courses/archive/spring20/cos426/)
+- [Square Heap](https://github.com/JulianKnodt/sqr_heap)
+  - An experiment with modifying the number of children for a heap. See readme for more info
+- [Mireba](https://github.com/JulianKnodt/mireba)
+  - A photorealistic raytracer based on [Mitsuba](https://www.mitsuba-renderer.org/). WIP.
+- [quick maths](https://github.com/JulianKnodt/quick_maths)
+  - A simple math library for use with mireba. Hopefully I can continue to upgrade to be more
+    full-fledged for general purpose use but right now it's designed for graphics.
+- [Mat-FST](https://github.com/JulianKnodt/mat-fst)
+  - An experiment for using [Finite State Transducers](https://github.com/BurntSushi/fst) as
+    sparse matrices. Check out the readme for more info.
+- [Small-SAT](https://github.com/JulianKnodt/small_sat)
+  - A concurrent SAT solver based on MiniSAT. Exploring the idea of having multiple threads, but
+    would've been a lot better if I had known Rust better at the time. Still learned a lot from
+    it though.
+- [artPanel](https://github.com/JulianKnodt/artPanel)
+  - A fun CLI util to render images in terminal with color. If you're in terminal all the time
+    and find it bland you can run this in the background to lighten things up.
+
+</div>
+</td>
+</tr>
+
+<!-- End table -->
+</table>
