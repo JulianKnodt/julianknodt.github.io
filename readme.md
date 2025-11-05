@@ -16,7 +16,7 @@ Me and Cory Wong! I was standing weirdly because I was nervous taking a picture 
 <script type="text/javascript">
 document.getElementById('where_am_i').addEventListener("click", function(event) {
   if (Math.random() < 0.99) {
-    document.getElementById("where_i_am").textContent = "Seattle";
+    document.getElementById("where_i_am").textContent = "South Korea (until Nov)";
   } else {
     document.getElementById("where_i_am").textContent = "Who's asking?";
   }
