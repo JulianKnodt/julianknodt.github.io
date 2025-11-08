@@ -1,7 +1,9 @@
 - [My Github!](https://github.com/JulianKnodt)
 - Email: julianknodt![@](https://web.archive.org/web/20091027135937/http://geocities.com/prakobkit/new/mail.gif)gmail.com
 
-<img src="images/cory_wong.jpg" width="550" alt="Cory Wong"/>
+<a href="https://www.instagram.com/coryjwong/">
+  <img src="images/cory_wong.jpg" width="550" alt="Cory Wong"/>
+</a>
 
 Me and Cory Wong! I was standing weirdly because I was nervous taking a picture with him.
 
@@ -9,14 +11,22 @@ Me and Cory Wong! I was standing weirdly because I was nervous taking a picture 
   <img src="images/incredible_coffee.jpg" width="550" alt="INCredible Coffee"/>
 </a>
 
+INCredible Coffee at Koenji in Tokyo, pictured is Shinbashi! The barista also sometimes DJs, I
+took some pictures of the DJs in Koenji, but since I didn't ask permission I'm not gonna put
+them here. Live DJ sets Monday, Tuesday, Friday~
+
+
 
 
 <button id = "where_am_i">Where Am I</button>
 <p id="where_i_am"></p>
 <script type="text/javascript">
 document.getElementById('where_am_i').addEventListener("click", function(event) {
-  if (Math.random() < 0.99) {
+  const c = Math.random();
+  if (c < 0.98) {
     document.getElementById("where_i_am").textContent = "South Korea (until Nov)";
+  } else if (c < 0.99) {
+    document.getElementById("where_i_am").textContent = "You should just ask me directly.";
   } else {
     document.getElementById("where_i_am").textContent = "Who's asking?";
   }
