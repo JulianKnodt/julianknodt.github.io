@@ -24,7 +24,7 @@ them here. Live DJ sets Monday, Tuesday, Friday~
 document.getElementById('where_am_i').addEventListener("click", function(event) {
   const c = Math.random();
   if (c < 0.98) {
-    document.getElementById("where_i_am").textContent = "South Korea (until Nov)";
+    document.getElementById("where_i_am").textContent = "Palo Alto";
   } else if (c < 0.99) {
     document.getElementById("where_i_am").textContent = "You should just ask me directly.";
   } else {
