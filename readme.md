@@ -35,44 +35,6 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
 
 ---
 
-Hey, I'm a programmer who is interested in a myriad number of things!
-I'm broadly interested in graphics (physically based rendering), compilers (Rust!),
-operating systems, and how people interact with social networks. I also dabble in
-machine learning, when it's small enough to run on my 2010 GPU.
-
-Outside of programming, I _try to_ spend my time attempting to cook and bake,
-taking stupidly long walks around my neighborhood, and fencing. I'm still exploring
-many new activities 🙇, so if there's anything neat to do feel free to reach out.
-
-If you're looking to collaborate on something, want to get coffee/tea, or are just generally
-interested in chatting, email me! I'm all over the place, so see above for where I am currently.
-
-If you have any comments or questions on my writing, go to the [github repo][github repo] for
-this page, and file an issue, or make a pull request! I'll get to 'em eventually.
-
-
-
-
-## Games
-
-I'm trying to get into making my own little games using
-[Pico-8](https://www.lexaloffle.com/pico-8.php), which is a fantastic little game maker and way
-to run games. I've had moderate success, but will share what I make here!
-
-- [Starmine](https://julianknodt.github.io/starmine.html)
-  - A space shooter resource gathering game
-
-- [Sozu](https://julianknodt.github.io/sozu.html)
-  - A Sozu (deer-scare) simulator
-
-- [Slime Ball](https://julianknodt.github.io/shoot.html)
-  - Kick a ball around as a slime
-
-- [Infinite Runner](https://julianknodt.github.io/runner.html)
-  - The first Pico-8 game I made (2019)
-  - Revived thanks to help from the [Pico-8 forum!](https://www.lexaloffle.com/bbs/?pid=132231#p)
-  - Jump around, jump up, jump up, and get down
-
 ## Research:
 
 <table style="table-layout:fixed;display:inline-table;">
@@ -120,8 +82,46 @@ to run games. I've had moderate success, but will share what I make here!
   <td>
     Differentiable rendering of different geometries for texture baking, with additional UV optimization
   </td>
-</tr>
+  </tr>
 </table>
+
+## Games
+
+I'm trying to get into making my own little games using
+[Pico-8](https://www.lexaloffle.com/pico-8.php), which is a fantastic little game maker and way
+to run games. I've had moderate success, but will share what I make here!
+
+- [Starmine](https://julianknodt.github.io/starmine.html)
+  - A space shooter resource gathering game
+
+- [Sozu](https://julianknodt.github.io/sozu.html)
+  - A Sozu (deer-scare) simulator
+
+- [Slime Ball](https://julianknodt.github.io/shoot.html)
+  - Kick a ball around as a slime
+
+- [Infinite Runner](https://julianknodt.github.io/runner.html)
+  - The first Pico-8 game I made (2019)
+  - Revived thanks to help from the [Pico-8 forum!](https://www.lexaloffle.com/bbs/?pid=132231#p)
+  - Jump around, jump up, jump up, and get down
+
+---
+
+Hey, I'm a programmer who is interested in a myriad number of things!
+I'm broadly interested in graphics (physically based rendering), compilers (Rust!),
+operating systems, and how people interact with social networks. I also dabble in
+machine learning, when it's small enough to run on my 2010 GPU.
+
+Outside of programming, I _try to_ spend my time attempting to cook and bake,
+taking stupidly long walks around my neighborhood, and fencing. I'm still exploring
+many new activities 🙇, so if there's anything neat to do feel free to reach out.
+
+If you're looking to collaborate on something, want to get coffee/tea, or are just generally
+interested in chatting, email me! I'm all over the place, so see above for where I am currently.
+
+If you have any comments or questions on my writing, go to the [github repo][github repo] for
+this page, and file an issue, or make a pull request! I'll get to 'em eventually.
+
 
 ## Work History
 
@@ -152,21 +152,20 @@ Summer '21: [Tailscale](https://tailscale.com/)
 
 </details>
 
-##### Research:
+##### Research Places:
 
 While the line between research and normal programming can be blurry, there are some things
 which are clearly research. While these are definitely "research", usually I find just messing
 around with code can be close to research in its own way.
 
+<img src="images/postech.jpg" width="320"/>
+
+![new][new] 2025: [POSTECH](https://cg.postech.ac.kr/) Visiting Researcher
+
 Summer '20: [Princeton Computational Imaging Lab](https://light.princeton.edu/)
   - Mitsuba implement time of flight gating (C++)
 
 [Arxiv!](https://arxiv.org/search/?query=julian+knodt&searchtype=all&source=header)
-
-2023: ![new][new] Joint UV Optimization and Texture Baking
-  - Julian Knodt, Zherong Pan, Kui Wu, Xifeng Gao
-  - [ACM](https://dl.acm.org/doi/10.1145/3617683)
-  - [Blog Post](papers/joint_uv_optimization_and_texture_baking)
 
 <!-- TODO list papers individually -->
 
@@ -185,8 +184,6 @@ years, so I hope that while listening to it, you can experience some of what I'v
 
 <iframe src="yt_timeline.html" width="800" height="512">
 </iframe>
-
-![Site Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fjulianknodt.github.io&count_bg=%2379C83D&title_bg=%23144FDF&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 
 [github repo]: https://github.com/JulianKnodt/julianknodt.github.io
 [new]: https://web.archive.org/web/20090829095811/http://geocities.com/uspa.geo/new6.gif
