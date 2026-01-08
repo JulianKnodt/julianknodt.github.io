@@ -73,12 +73,61 @@ to run games. I've had moderate success, but will share what I make here!
   - Revived thanks to help from the [Pico-8 forum!](https://www.lexaloffle.com/bbs/?pid=132231#p)
   - Jump around, jump up, jump up, and get down
 
+## Research:
+
+<table style="table-layout:fixed;display:inline-table;">
+  <tr>
+    <td width="80">2024</td>
+    <td width="100">
+      <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuQqWSrs8jKPpEHD7_yHOWF6YysEml06gSSQ&s"
+      width="80"/>
+    </td>
+    <td width="320">
+      <a href="https://dl.acm.org/doi/10.1145/3731143">Single Edge Collapse Quad-Dominant Mesh Reduction</a>
+    </td>
+    <td>
+      Simplify meshes while approximately preserving quad layouts (Also sharp feature and joint
+      preservation)
+    </td>
+  </tr>
+
+  <tr>
+  <td width="80">2024</td>
+  <td width="100">
+    <img
+    src="https://dl.acm.org/cms/10.1145/3714408/asset/07439e9c-6252-4dfb-a726-7166d95a8668/assets/images/medium/tog-24-0100-f03.jpg"
+    width="80"/>
+  </td>
+  <td width="320">
+    <a href="https://dl.acm.org/doi/10.1145/3714408">Texture Size Reduction Through Symmetric Overlap and Texture Carving</a>
+  </td>
+  <td>
+    Reduce the size of textures by compressing the UV using a modified version of seam-carving
+  </td>
+  </tr>
+
+  <tr>
+  <td width="80">2023</td>
+  <td width="100">
+    <img
+    src="https://dl.acm.org/cms/10.1145/3617683/asset/cfef8b78-cbd1-40d3-9836-03d20f1951b0/assets/images/medium/tog-22-0117-f03.jpg"
+    width="80"/>
+  </td>
+  <td width="320">
+    <a href="https://dl.acm.org/doi/10.1145/3617683">Joint UV Optimization & Texture Baking</a>
+  </td>
+  <td>
+    Differentiable rendering of different geometries for texture baking, with additional UV optimization
+  </td>
+</tr>
+</table>
+
 ## Work History
 
 For those interested in hiring me,
 I've worked at a variety of places, on system software,
 and am mostly interested in backend/low-level software or research!
-
 
 <details>
 <summary>Where I've worked:</summary>
