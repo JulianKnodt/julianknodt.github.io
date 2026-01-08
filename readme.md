@@ -1,20 +1,19 @@
+
 - [My Github!](https://github.com/JulianKnodt)
 - Email: julianknodt![@](https://web.archive.org/web/20091027135937/http://geocities.com/prakobkit/new/mail.gif)gmail.com
 
 <a href="https://www.instagram.com/coryjwong/">
-  <img src="images/cory_wong.jpg" width="550" alt="Cory Wong"/>
+  <img src="images/cory_wong.jpg" width="240" alt="Cory Wong"/>
+</a>
+<a href="https://www.instagram.com/inccoffee2020/">
+  <img src="images/incredible_coffee.jpg" width="240" alt="INCredible Coffee"/>
 </a>
 
 Me and Cory Wong! I was standing weirdly because I was nervous taking a picture with him.
 
-<a href="https://www.instagram.com/inccoffee2020/">
-  <img src="images/incredible_coffee.jpg" width="550" alt="INCredible Coffee"/>
-</a>
-
 INCredible Coffee at Koenji in Tokyo, pictured is Shinbashi! The barista also sometimes DJs, I
 took some pictures of the DJs in Koenji, but since I didn't ask permission I'm not gonna put
 them here. Live DJ sets Monday, Tuesday, Friday~
-
 
 
 
@@ -32,6 +31,7 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
   }
 });
 </script>
+
 
 ---
 
