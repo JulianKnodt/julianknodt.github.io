@@ -1,3 +1,5 @@
+# Microblog
+
 ---
 
 Back in elementary school, we used to have a thing called the buddy program, where students in
@@ -36,3 +38,8 @@ it's given me a reference point to compare America against. I hope someday some 
 parts of Korea will arrive here.
 
 ---
+
+[Note on dot product attention](writings/dot_prod_attn.md)
+
+---
+
