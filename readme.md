@@ -35,6 +35,8 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
 
 [Microblog](microblog.md)
 
+[Guide to Korea](writings/korean_guide.md)
+
 ---
 
 ## Research:
