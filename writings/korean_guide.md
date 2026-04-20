@@ -8,6 +8,8 @@ then transit. I hope it can be of some help for your visit.
 This guide assumes you're visiting Seoul, and briefly describes Pohang.
 If you're going to Busan or Jeju I don't have any advice, but some things here may also apply.
 
+- No AI was used in the writing of this guide.
+
 ## TL;DR
 
 This information is from Nov. 2025, and Koreans move fast. Some of it may become outdated.
@@ -29,9 +31,17 @@ This information is from Nov. 2025, and Koreans move fast. Some of it may become
     defunct now. If you switch the language to Korean it works though.
 - If you can speak Korean, then why are you reading this? But you can use the NOL app to find cheap hotels
 
-## Hotel Booking
 
-Booking a hotel in Seoul is less important than some places, as many different Regions of Seoul
+## Table of Contents
+
+- [Hotels](#hotels)
+- [Transit](#transit)
+- [Food](#food)
+- [Districts in Seoul](#districts)
+
+## Hotel Booking <a name="hotels"></a>
+
+Where you book a hotel in Seoul is less important than some places, as different regions of Seoul
 are connected by subway. Most foreigners will end up reserving around Myeong-Dong:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12650.895628006663!2d126.9717799203469!3d37.56156811218233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357ca2f11b3f14ab%3A0x3b436be085e38e0c!2sMyeong-dong%2C%20Jung%20District%2C%20Seoul%2C%20South%20Korea!5e0!3m2!1sen!2sus!4v1776570975664!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -55,7 +65,7 @@ prices, and a large variety of places.
 Unfortunately, the app doesn't seem to have a translation, and it may only accept Korean bank
 cards. If you've got a friend in Korea they may be able to book for you.
 
-## Transit
+## Transit <a name="transit"></a>
 
 #### Getting from Incheon Airport to Seoul
 
@@ -84,7 +94,7 @@ Note that preparing cash to load a physical T-money card is probably good, since
 visiting found that it's not possible to use a foreign credit card because it converts credit
 into something that can be used as cash.
 
-## Food
+## Food <a name="food"></a>
 
 This section is where I'm putting most of my focus. There are a number of Korean foods which
 most people are just unaware of, so first there's a brief overview of different foods, then
@@ -125,7 +135,7 @@ historical reasons. For example, there is odeng (Jpn = oden), udong (Jpn = Udon)
 soba), and sushi (Korean = cho-bap 초밥). These are distinct from the Japanese versions, and I
 would say some of the best soba I've had has been in Korea,
 sorry for sacrilege. Note that there is also ramen (라멘) and ramyeon (라면), but the difference is not
-Japanese versus Korean, but ramyeon is instant where as ramen is fresh made.
+Japanese versus Korean, but ramyeon is instant whereas ramen is fresh made.
 
 Furthermore, there is also "Korean-Chinese" food (Chung-kuk-Jib 중국집 lit. China House). If you
 see a restaurant labeled as "real Chinese" in Korea, more likely than not it's a Korean-Chinese
@@ -134,6 +144,10 @@ with black bean sauce (Jajang-myeon 자장면), spicy seafood soup (Jjampong 짬
 sour pork (Tang-su-yuk 탕수육). For some examples, see either
 [here](https://autoreserve.com/en/restaurants/YN6vgGmGqft8q6HHjq3G) or
 [here](https://www.flipkorea.com/post/%ED%8C%B8%ED%88%AC%EC%96%B4-songjugjang-chinese-restaurant-in-yeundeungpo).
+
+There are also more traditional Korean meals such as Han-Jeong-sik (Hanja: 韓定食), where they serve
+10, 20 or more small dishes, or school meals (Hanja: 學校食堂, pro. hak-kyo-sik-dang, abbr.
+hak-sik) where you can get a lot of... interesting veggies (나물 namul) There's also bun-sik (분식 lit flour meal) where you can get tteokbeokki but I don't think I ever specifically went for that.
 
 Finally, there are some classic well-known Korean such as barbeque, and fried chicken. Barbeque
 can either be (소)고기구이 ((so) gogi gu-i) which is usually pork, Hanwoo 한우 Korean
@@ -158,9 +172,117 @@ restaurants called [Blue Ribbon](https://www.bluer.co.kr/). When I talked with s
 often they did not use this, but the restaurants they chose as good often directly overlapped
 with ones marked by this list.
 
-## Cafes
+### Cafes
 
 TODO
+
+## Interesting Districts in Seoul <a name="districts"></a>
+
+Each district has a very distinct feel, including the types of people who are walking around.
+Some places are near universities (West of Seoul Station), Foreign (slightly North-East of Seoul
+Station), business people (directly north of the Hangang), or lively (Gangnam, which translates
+to river's south). I've listed some of the more interesting places, as well as touristy places,
+although they're covered by most other guides.
+
+- [Mullae-Dong](https://maps.app.goo.gl/xkDxZC1NpUjBzFyB9)
+  - Trendy Cafes, Art stuff
+
+- [Jamsil-Dong](https://maps.app.goo.gl/aFYUBCoFjA66rS7H7)
+  - Lotte Tower and Mall (Shopping)
+
+- [Coex Mall](https://maps.app.goo.gl/poUuY8n6AG64SySbA)
+  - Shopping and food
+
+- [Nakwon Music Arcade](https://maps.app.goo.gl/YfbT2spUPjMBGH5R9)
+  - A shop for every music instrument under the sun
+
+- [Shinchon](https://maps.app.goo.gl/QKMwRqxpHCdP63MW9)
+  - Shopping and nice to walk around
+
+###### More Touristy:
+
+- [Bukchon Hanok Village](https://maps.app.goo.gl/ZLm5KCbYkG4pS9s28)
+  - Old Style Korean Homes
+
+- [Dongdaemun Design Plaza](https://maps.app.goo.gl/cNCi9aZ4Do54hBTc7)
+  - Fashion & Shopping
+
+- [Gwangjang Shijang (Market)](https://maps.app.goo.gl/td7JKqdp6rMGKWPs5)
+  - Street Food
+
+- [Insa-Dong](https://maps.app.goo.gl/Foxii9cQopDH5TLu5)
+  - Walkable, Shopping
+
+
+Note: "Dong" can refer to both a region (as in Mullae-Dong) and East (as in Dongdaemun)
+
+#### Specific Restaurants in Seoul
+
+I don't want to suggest specific restaurants, because you can probably close your eyes and walk
+down the street and end up in a good one, but I'll suggest a few I've been to which I distinctly
+remember. These restaurants are personal to me because I ate there with friends, _and_ the food
+quality is good.
+
+- Seoul Station
+  - [Seoryeong](https://guide.michelin.com/us/en/seoul-capital-area/kr-seoul/restaurant/seoryung)
+    - Food: Naeng-Myeon, Mandu-Guk
+    - With S. Shin & H. Lee
+  - [Villa Embassy](https://map.naver.com/p/entry/place/1942081054?placePath=%2Fphoto)
+    - Cafe
+    - With S. Shin & H. Lee
+  - [Buwon Noodle Shop](https://naver.me/53lKPHOX)
+    - Food: Naeng-Myeon
+    - With Ning
+  - [동화고옥 서울역점](https://map.naver.com/p/entry/place/1181024348?placePath=%2Fphoto)
+    - Fancy Stuff
+    - With the Legendary JWK
+
+- Gangnam
+  - [알부자 강남본점](https://maps.app.goo.gl/iPUUQwSTZLL68zFw9)
+    - Al-jjim
+    - With Chong
+
+- Gwangjang Market
+  - [Garlic Boy](https://maps.app.goo.gl/udZ81YBvrtAQwrR7A)
+    - Garlic Bread with Cream :), not Korean but anyone who says that it's not good can suck it
+    - With Ning
+
+- Eulji Line, 3rd Exit
+  - [Eulji Dabang](https://naver.me/xFLuqPsQ)
+    - Coffee (There is no English menu, this place is more for vibes)
+    - With J&R
+
+- Shinchon
+  - [Donbul 1971](https://naver.me/x7ndF0PV)
+  - Gogi
+  - With Joanne
+
+## Religion
+
+If you're familiar with Japan, you might expect temples all over. Korea is quite different, as
+it's modernized relatively recently. The history of Korea also pushed many Buddhist temples
+further away from community centers. There are many more churches (교회 kyohui) all over, but I
+never went into one. A lot of Koreans I met did attend church on Sundays, at varying levels of
+liberal/conservative churches. Some also offer a prayer before meals.
+
+If you are interested in visiting Buddhist temples, the most famous one in Korea is in
+[Gyeong-ju](https://en.wikipedia.org/wiki/Gyeongju),
+[Bul-Guk-sa](https://en.wikipedia.org/wiki/Bulguksa). I also visited Shin-Heung-Sa in Sokcho,
+and Oe-o-sa in Pohang, but they were both buried deep in the mountains.
+
+## Pohang
+
+While most people who see this guide are interested in Seoul, I want to write a bit about
+Pohang, since that's where I spent most of my time. When I think about Korea, I think about
+Pohang, with the people I know, and the Hyeong-San Gang.
+
+TODO
+
+
+## Closing Note
+
+This guide is in flux, and may be updated based on interest. If there's anything you'd like to
+hear about, please feel free to contact me.
 
 ![Send me a letter](https://web.archive.org/web/20091027005640im_/http://kr.geocities.com/kth7376/text/mail_03.gif)
 
