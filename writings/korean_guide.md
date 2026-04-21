@@ -18,11 +18,14 @@ This information is from Nov. 2025, and Koreans move fast. Some of it may become
   - Use the Blue Ribbon guide to find high quality food.
 - For Taxis: You can either flag a taxi down or use the Kakao-T app (although it may suggest an
   alternative app now)
+- For Subway:
+  - You used to have to buy a T-money card in advance, but it looks like you can use foreign
+    credit cards on the subway as of Mar. 16 ([source](https://www.koreaherald.com/article/10694586)).
 - For Trains: You can book train tickets on [Korail](https://www.korail.com/global/eng/ticket/reservation#)
   - When you board the train, you don't need to show your ticket as long as you're in the right
     seat
   - The refund policy is quite lenient (Not full, but a lot of partial refunds).
-- For Buses: You can book tickets [here](https://www.bustago.or.kr/newweb/en/index.do).
+- For Intercity Buses: You can book tickets [here](https://www.bustago.or.kr/newweb/en/index.do).
   - You can book a seat two weeks in advance, and you can also buy tickets at kiosks in the
     station.
   - Cancellation is free 2 days in advance (see
@@ -84,7 +87,7 @@ you are you can either take a taxi or the subway. Taxis are cheap, and are able 
 take foreign credit cards. Most taxi drivers won't speak english, but if you show them on a map
 it should be fine. This is the most straightforward.
 
-For taking the subway, you'll need a T-money card (or a Korean debit/credit card but if you're
+For taking the subway, you used need a T-money card (or a Korean debit/credit card but if you're
 reading this you won't have one lol). There is a T-money app, or it may be possible to use Apple
 Wallet. There is a [reddit
 post](https://www.reddit.com/r/koreatravel/comments/1me4nhj/sharing_experience_with_tmoney_apple_pay_as_a/)
@@ -93,6 +96,9 @@ which may be more informative, I don't know since I used a Korean debit card.
 Note that preparing cash to load a physical T-money card is probably good, since a friend
 visiting found that it's not possible to use a foreign credit card because it converts credit
 into something that can be used as cash.
+
+Update as of March 17th 2026: You should be able to purchase subway tickets with foreign credit
+cards, just in time for a BTS comeback concert ([Source](https://www.koreaherald.com/article/10694586)). Another development courtesy of K-pop.
 
 ## Food <a name="food"></a>
 
@@ -145,17 +151,23 @@ sour pork (Tang-su-yuk 탕수육). For some examples, see either
 [here](https://autoreserve.com/en/restaurants/YN6vgGmGqft8q6HHjq3G) or
 [here](https://www.flipkorea.com/post/%ED%8C%B8%ED%88%AC%EC%96%B4-songjugjang-chinese-restaurant-in-yeundeungpo).
 
+There's also "pho" in Korea, known as ssal-guksu (쌀국수 lit. rice noodle soup). Instead of the
+usual Vietnamese toppings like Thai basil, lime, or Cilantro, it's usually seasoned with chili
+and lemons, and may have intestines instead of tripe or or meatballs. These are not super common,
+and I think they don't hit the same spot as pho for me, but they're not bad to try. These kind
+of restaurants also made me realize that many Koreans have the gene that makes cilantro taste like soap.
+
 There are also more traditional Korean meals such as Han-Jeong-sik (Hanja: 韓定食), where they serve
 10, 20 or more small dishes, or school meals (Hanja: 學校食堂, pro. hak-kyo-sik-dang, abbr.
 hak-sik) where you can get a lot of... interesting veggies (나물 namul) There's also bun-sik (분식 lit flour meal) where you can get tteokbeokki but I don't think I ever specifically went for that.
 
 Finally, there are some classic well-known Korean such as barbeque, and fried chicken. Barbeque
 can either be (소)고기구이 ((so) gogi gu-i) which is usually pork, Hanwoo 한우 Korean
-beef (similar in spirit to Wagyu), or other things like grilled eel (장어구이 Jang-o). Note, if
+beef (similar in spirit to Wagyu), or other things like grilled eel (장어구이 Jang-o gu-i). Note, if
 you see ggom-jango (꼼장어), that ain't no eel that's a hagfish. This is different from the
 distinction between Japanese anago (穴子/アナゴsaltwater eel) and unagi (ウナギ freshwater eel).
 There's also fried chicken, known in Korea as just "chicken" 치킨. It seems quite popular to
-just order Chicken from whichever store has the best sale on Coupang at any given moment, but
+just order chicken from whichever store has the best sale on Coupang at any given moment, but
 there are local places you can get it as well.
 
 ### Finding Restaurants
@@ -174,7 +186,20 @@ with ones marked by this list.
 
 ### Cafes
 
-TODO
+Coffee culture is big in Korea. The basic black coffee in Korea is Americano, but I don't think
+they add extra water like they do in other places. Koreans drink so much Americano, that they
+call iced americano, Ah-Ah (아아). They may have a large variety of drinks including
+espresso, flat whites, einspanners, and other things. If you're not a fan of coffee, they
+usually also have a milk tea, [yuja-cha](https://en.wikipedia.org/wiki/Yuja_tea) (유자차), or
+[omija-cha](https://en.wikipedia.org/wiki/Omija_cha) (오미자차). I found that the experience at
+a cafe often is both about the vibes and the quality of drinks, and often both are highly
+quality. You should be able to find ones with immaculate vibes in almost every neighborhood.
+
+##### Teas:
+
+Within Korea, Jeju is also well-known for matcha, but since I haven't been I can't confirm if
+it's better there. At restaurants, they also usually serve cold water, but sometimes they will
+serve cold barley tea.
 
 ## Interesting Districts in Seoul <a name="districts"></a>
 
@@ -184,11 +209,16 @@ Station), business people (directly north of the Hangang), or lively (Gangnam, w
 to river's south). I've listed some of the more interesting places, as well as touristy places,
 although they're covered by most other guides.
 
+- [Jamsil-Dong](https://maps.app.goo.gl/aFYUBCoFjA66rS7H7)
+  - Lotte Tower and Mall (Shopping & Touristy)
+  - Adjacent Songpa-Gu has good food.
+
+- [Gangnam](https://maps.app.goo.gl/wGKA8hGYGpyTwFQT6)
+  - Shopping, food, bars, trendy things
+  - Both locals and tourists will be here
+
 - [Mullae-Dong](https://maps.app.goo.gl/xkDxZC1NpUjBzFyB9)
   - Trendy Cafes, Art stuff
-
-- [Jamsil-Dong](https://maps.app.goo.gl/aFYUBCoFjA66rS7H7)
-  - Lotte Tower and Mall (Shopping)
 
 - [Coex Mall](https://maps.app.goo.gl/poUuY8n6AG64SySbA)
   - Shopping and food
@@ -203,6 +233,7 @@ although they're covered by most other guides.
 
 - [Bukchon Hanok Village](https://maps.app.goo.gl/ZLm5KCbYkG4pS9s28)
   - Old Style Korean Homes
+  - Next to the Gyeongbukgung palace
 
 - [Dongdaemun Design Plaza](https://maps.app.goo.gl/cNCi9aZ4Do54hBTc7)
   - Fashion & Shopping
@@ -212,6 +243,12 @@ although they're covered by most other guides.
 
 - [Insa-Dong](https://maps.app.goo.gl/Foxii9cQopDH5TLu5)
   - Walkable, Shopping
+
+- [Itaewon](https://maps.app.goo.gl/sA1vELehtCYa7wT69)
+  - Clubbing?
+
+- [Namsan Tower](https://maps.app.goo.gl/QrL6nm8bsoaKcrk49)
+  - Date Spot & City Views
 
 
 Note: "Dong" can refer to both a region (as in Mullae-Dong) and East (as in Dongdaemun)
