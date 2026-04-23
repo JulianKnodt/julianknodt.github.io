@@ -170,6 +170,11 @@ There's also fried chicken, known in Korea as just "chicken" 치킨. It seems qu
 just order chicken from whichever store has the best sale on Coupang at any given moment, but
 there are local places you can get it as well.
 
+Note: For gogi restaurants, they will give you perilla leaves, or lettuce, gochujang and raw
+garlic. This is known as [ssam](https://en.wikipedia.org/wiki/Ssam) (쌈 lit. wrap), where you
+wrap all the things you want in the leaf and stuff it all in at once. It elevates the
+experience, at the cost of having to stuff a massive thing in your mouth.
+
 ### Finding Restaurants
 
 Of course, just because you know what exists doesn't mean you can easily find a restaurant.
