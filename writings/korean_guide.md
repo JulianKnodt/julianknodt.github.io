@@ -229,6 +229,10 @@ although they're covered by most other guides.
 - [Shinchon](https://maps.app.goo.gl/QKMwRqxpHCdP63MW9)
   - Shopping and nice to walk around
 
+- [Ikseon-Dong](https://maps.app.goo.gl/2fsqWy5vkNVpu9Fd8)
+  - Cute cafes, a bit touristy
+  - Near Bukchon Hanok Village
+
 ###### More Touristy:
 
 - [Bukchon Hanok Village](https://maps.app.goo.gl/ZLm5KCbYkG4pS9s28)
