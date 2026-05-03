@@ -322,8 +322,114 @@ While most people who see this guide are interested in Seoul, I want to write a 
 Pohang, since that's where I spent most of my time. When I think about Korea, I think about
 Pohang, with the people I know, and the Hyeong-San Gang.
 
-TODO
+This is a subset of restaurants I visited in Pohang, there's so many restaurants there so I feel
+like I could be there and try so many more. This
 
+- [효자외갓집](https://naver.me/GBF7O0u7)(학생같이):
+  - The first and last place I ate in Postech with other lab members.
+
+- [cafe\_Yeonil](https://www.instagram.com/cafe_yl/) (교수님같이)
+  - A very scenic cafe overlooking mountain scenery.
+
+- [Jigok Student Center](https://naver.me/FfsW2yve)
+  - The student meal hall, it's 3500₩ (subsidized from 5000₩) for a whole meal, the food is interesting but it's so cheap
+  - Japanese 翻訳：地獄 :)
+  - RIST is more expensive, but better quality
+
+- [Jukdo Market (죽도어시장)](https://naver.me/xbAXBEgH)
+  - Jukdo Fresh Fish Market, you can order 회 here, I tried Sea Cucumber (haesam 해삼) and Sea
+    Pineapple (Meongge 멍게). The one I went to is this [stall](https://naver.me/FcmhBHlQ) or the
+    adjacent one, but hard to tell from a map.
+  - Later, I also tried sunfish (개복치) and yellowtail from here, I wouldn't recommend sunfish
+  but yellowtail is great in winter.
+
+- [참치명장](https://naver.me/5JpkMrbj) (회식)
+- All you can eat tuna in 5-6 different styles.
+
+- [청마루](https://naver.me/x67Y8VlD) (아저씨squad)
+  - Kal-guksu, good for a rainy day. I never got to try fermented sting ray from here 홍어회)
+
+- [강산생선구이](https://naver.me/FoENVJHj) (w. Chung)
+  - Grilled fish, no flare, delicious
+
+- [곤지곤지이동점](https://naver.me/GDamOvey) (w. Kim)
+  - Traditional Korean Set Meal, very comforting
+
+- [유상운베이커리](https://naver.me/xKEkqErP)
+  - My usual bakery
+
+- [탐솥 효자점](https://naver.me/5oE51VKs) (w. Chon)
+  - Stone Pot Rice
+
+- [커피이용소입니다](https://naver.me/5mIuWhCn)
+  - My usual cafe, I finished a 10 stamp card!
+
+- [제주해물탕전복뚝배기](https://naver.me/5fIpKR7m)
+  -  Jeju Helmet 🪖 Seafood Soup
+
+- [순수치킨](https://naver.me/FMceWbkZ)
+  - Local Chicken Shop
+
+- [테츠로라멘](https://naver.me/GALRRu7X)
+  - Local ramen shop (his basil ramen is pretty good)
+
+- [홍삼삼계탕](https://naver.me/xCB7G6SI)
+  - Went here when I was sick, their samgyetang is pretty good
+
+- [흑룡강반점](https://naver.me/F1rujdMV)
+  - A usual spot for 중식당
+
+- [짬뽕프로](https://naver.me/xnh11PBk)
+  - Real pros at Jjampong, the spiciness is really addictive.
+
+- [시골여행 유강직영점](https://naver.me/x0UsTeDv)
+  - All variety of noodles
+
+- [호돈뒷고기 효자점](https://naver.me/xq3aK0C4)
+  - Gogi
+
+- [두남자찜닭 효자점](https://naver.me/FfeONTy4)
+  - Jjimdalk for sharing
+
+- [순남시래기](https://naver.me/5PVaTRL2)
+  - Lit. Dried radish greens, korean style meal with good side dishes
+
+- [비룡](https://naver.me/F75MqpBq) (w. Jaesong)
+  - Another chinese/korean restaurant
+
+- [Won's favorite Nata](https://naver.me/GTnAfS5h)
+  - One of the best pastis-de-nata I've ever had
+  - Also see the next door cafe by the same owners ([Greenous](https://naver.me/xprAARQY))
+
+- [언양닭칼국수](https://naver.me/xwm1u7Bh)
+  - Chicken Kal-Guksu, with the spiciest kimchi. Soothing, dodge the kimchi
+
+- [연일김치찌개](https://naver.me/FoXRDZrY)
+  - Kimchi Jiggae, infinite rice, massive bowl of kimchi jiggae
+
+- [장룡민물장어나라](https://naver.me/GEXhbvJQ)
+  - Grilled eel
+
+- [Bob's Burgers](https://naver.me/GDaf2mmQ)
+  - Burgers, straight from the US
+
+- [어미가](https://naver.me/FzSZ59AT)
+  - Seafood soup
+
+- [스프커리 보울](https://naver.me/FG7AASMS)
+  - Japanese Style: Soup Curry Bowl
+
+- [오이소 홍게](https://naver.me/GPdo4RuD)
+  - Unlimited refill red crab~
+
+- [삼동소바](https://naver.me/FoEos0Ui)
+  - This place put me on putting wasabi into my soba
+
+- [고바우식당](https://naver.me/FSw7HGxv)
+  - Samgyeobsal and Kelanmari
+
+- [밀레니엄](https://naver.me/GzEDEo66) (축하해용Heewoo~)
+  - Agu-jjim
 
 ## Closing Note
 
