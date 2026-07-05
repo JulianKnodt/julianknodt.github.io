@@ -43,6 +43,24 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
 
 <table style="table-layout:fixed;display:inline-table;">
   <tr>
+    <td width="80">2026</td>
+    <td width="100">
+      <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPzQR0lvT7MaH3XfR-bTKpEMqvES2Crv9wyxXDzBQD4g&s"
+      width="80"/>
+    </td>
+    <td width="320">
+      <a href="http://onlinelibrary.wiley.com/doi/10.1111/cgf.70411">Convex Primitive Decomposition</a>
+    </td>
+    <td>
+      Convert a 3D surface into a set of convex primitives for collision detection.
+    </td>
+    <td>
+      2 Reprod
+    </td>
+  </tr>
+
+  <tr>
     <td width="80">2024</td>
     <td width="100">
       <img
@@ -56,13 +74,16 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
       Simplify meshes while approximately preserving quad layouts (Also sharp feature and joint
       preservation)
     </td>
+    <td>
+      1 Reprod
+    </td>
   </tr>
 
   <tr>
   <td width="80">2024</td>
   <td width="100">
     <img
-    src="https://dl.acm.org/cms/10.1145/3714408/asset/07439e9c-6252-4dfb-a726-7166d95a8668/assets/images/medium/tog-24-0100-f03.jpg"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTVAqRT9d4QiYgc3J8LrVMhl8hOfFqV02dwVLJCTFgxh7KYsLlpkwotXvr&s=10"
     width="80"/>
   </td>
   <td width="320">
@@ -71,13 +92,16 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
   <td>
     Reduce the size of textures by compressing the UV using a modified version of seam-carving
   </td>
+  <td>
+    0 Reprod
+  </td>
   </tr>
 
   <tr>
   <td width="80">2023</td>
   <td width="100">
     <img
-    src="https://dl.acm.org/cms/10.1145/3617683/asset/cfef8b78-cbd1-40d3-9836-03d20f1951b0/assets/images/medium/tog-22-0117-f03.jpg"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiCUxQ4xgrU9fxYe92-MZaCMBVnrsQ8uYuW_r44ID2iPKp5x7owduOk_Q&s=10"
     width="80"/>
   </td>
   <td width="320">
@@ -85,6 +109,9 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
   </td>
   <td>
     Differentiable rendering of different geometries for texture baking, with additional UV optimization
+  </td>
+  <td>
+    0 Reprod
   </td>
   </tr>
 </table>
