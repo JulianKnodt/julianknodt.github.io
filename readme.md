@@ -53,7 +53,7 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
     <td>
       Description
     </td>
-    <td width="160">
+    <td width="200">
       # Reprod
     </td>
   </tr>
@@ -70,7 +70,7 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
     <td>
       Convert a 3D surface into a set of convex primitives for collision detection.
     </td>
-    <td width="160">
+    <td width="200">
       2
     </td>
   </tr>
@@ -89,7 +89,7 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
       Simplify meshes while approximately preserving quad layouts (Also sharp feature and joint
       preservation)
     </td>
-    <td width="160">
+    <td width="200">
       1
     </td>
   </tr>
@@ -107,7 +107,7 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
   <td>
     Reduce the size of textures by compressing the UV using a modified version of seam-carving
   </td>
-  <td width="160">
+  <td width="200">
     0
   </td>
   </tr>
@@ -125,7 +125,7 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
   <td>
     Differentiable rendering of different geometries for texture baking, with additional UV optimization
   </td>
-  <td width="160">
+  <td width="200">
     0
   </td>
   </tr>
