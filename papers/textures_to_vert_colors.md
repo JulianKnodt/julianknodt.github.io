@@ -44,4 +44,6 @@ Background colors can also be deleted.
 cylinder](https://www.youtube.com/watch?v=dDW16bFlA7w).
 Then export the mesh as either a PLY or OBJ, and you have something ready for 3D printing!
 
+Here's an example done with the Hong Kong flag:
 
+![Example Coaster](images/example_coaster.png)
