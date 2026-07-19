@@ -1,7 +1,7 @@
 # Textures to Vert Colors
 
-<video controls width="1080">
-  <source src="/videos/textures_to_vert_colors.mp4" type="video/mp4" />
+<video controls width="720">
+  <source src="/videos/textures_to_vert_colors_ff.mp4" type="video/mp4" />
 </video>
 
 ## Designing a coaster:
