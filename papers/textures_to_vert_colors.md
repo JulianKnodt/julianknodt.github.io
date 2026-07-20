@@ -14,8 +14,7 @@ What you'll need:
 - An image for converting into a coaster
   - The image shouldn't be too complex.
 - [Blender](https://www.blender.org/)
-  - With basic knowledge of how to edit meshes :).
-  - Tutorials [1](https://www.youtube.com/watch?v=DHv9PSPikpM),
+  - With basic knowledge of how to edit meshes. Some tutorials are linked below.
 - [This Project's Code](https://github.com/JulianKnodt/texture_to_vert_colors)
 - [Rust for compilation](https://github.com/rust-lang/rust)
 - [uv for scripts](https://docs.astral.sh/uv/)
