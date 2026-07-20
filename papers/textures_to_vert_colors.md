@@ -1,8 +1,10 @@
 # Textures to Vert Colors
 
+<center>
 <video controls width="720">
   <source src="/videos/textures_to_vert_colors_ff.mp4" type="video/mp4" />
 </video>
+</center>
 
 ## Designing a coaster:
 
@@ -46,4 +48,6 @@ Then export the mesh as either a PLY or OBJ, and you have something ready for 3D
 
 Here's an example done with the Hong Kong flag:
 
-![Example Coaster](/images/example_coaster.png)
+<center>
+  <img src="/images/example_coaster.png" width="400" alt="Example Coaster">
+</center>
