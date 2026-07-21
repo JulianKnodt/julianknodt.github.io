@@ -1,10 +1,23 @@
 # Textures to Vert Colors
 
+[Code](https://github.com/JulianKnodt/texture_to_vert_colors)
+
+## Abstract:
+
+<small>
+3D artists blend geometry and texture to craft objects and their appearance, using both geometric and image processing tools. Yet, it is difficult for geometry processing to account for textures in the standard UV with texture maps representation. When textures are represented as vertex colors though, we show texture-aware geometry processing becomes straightforward. Unfortunately, most textured meshes are represented with UV parameterizations, so in practice most geometry processing tools simply ignore texture. This scarcity of vertex colors meshes is remedied using a new remeshing approach that hoists textures to vertex colors through per-triangle remeshing, while preserving input appearance. This new remeshing takes meshes with UVs and texture maps and generates vertex color meshes, which are then used to show how vertex colors can be incorporated into geometry processing through texture-aware modifications to multiple applications. Specifically, we test texture-aware geometry processing on surface segmentation, Tutte parameterizations, surface texture processing algorithms such as edge-detection, and vector field operations with the texture gradient. For each application, texture information produces different and in some sense improved results as compared to geometry-only algorithms, or image processing algorithms performed in UV space.
+</small>
+
+## Fast-Forward:
+
 <center>
 <video controls width="720">
   <source src="/videos/textures_to_vert_colors_ff.mp4" type="video/mp4" />
 </video>
 </center>
+
+This work converts textured meshes into meshes of vertex colors by projecting pixels onto triangle faces in 2D, and resampling in 3D.
+The use of vertex color meshes is then  demonstrated in applications including clustering, texture aware UV parameterization, view-independent texture edge detection, and quad  remeshing following a texture’s gradient.
 
 ## Designing a coaster:
 
