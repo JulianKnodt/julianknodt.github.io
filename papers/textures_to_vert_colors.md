@@ -1,6 +1,7 @@
 # Textures to Vert Colors
 
 [Code](https://github.com/JulianKnodt/texture_to_vert_colors)
+
 [Paper](https://dl.acm.org/doi/10.1145/3804451)
 
 ## Abstract:
