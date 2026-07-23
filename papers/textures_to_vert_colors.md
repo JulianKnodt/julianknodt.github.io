@@ -1,4 +1,4 @@
-# Textures to Vert Colors
+# Texture-Aware Remeshing for Texture-Aware Geometry Processing
 
 Julian Knodt and Seung-Hwan Baek
 
