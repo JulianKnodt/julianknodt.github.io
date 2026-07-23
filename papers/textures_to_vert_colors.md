@@ -1,5 +1,9 @@
 # Textures to Vert Colors
 
+Julian Knodt and Seung-Hwan Baek
+
+![POSTECH CGLab](https://cg.postech.ac.kr/wp-content/uploads/2024/04/cropped-logo.png)
+
 [Code](https://github.com/JulianKnodt/texture_to_vert_colors)
 
 [Paper](https://dl.acm.org/doi/10.1145/3804451)
