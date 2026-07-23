@@ -8,7 +8,7 @@ Julian Knodt and Seung-Hwan Baek
 
 [Paper](https://dl.acm.org/doi/10.1145/3804451)
 
-Questions? Email me at julianknodt@gmail.com.
+Questions? Email me at [julianknodt@gmail.com](mailto:julianknodt@gmail.com).
 
 ## Abstract:
 
