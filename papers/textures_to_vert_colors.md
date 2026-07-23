@@ -2,7 +2,7 @@
 
 Julian Knodt and Seung-Hwan Baek
 
-![POSTECH CGLab](https://cg.postech.ac.kr/wp-content/uploads/2024/04/cropped-logo.png)
+<img src="https://www.julianknodt.com/papers/textures_to_vert_colors" width="400" alt="Logo">
 
 [Code](https://github.com/JulianKnodt/texture_to_vert_colors)
 
