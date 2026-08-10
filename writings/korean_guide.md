@@ -344,7 +344,7 @@ like I could be there and try so many more. This
   but yellowtail is great in winter.
 
 - [참치명장](https://naver.me/5JpkMrbj) (회식)
-- All you can eat tuna in 5-6 different styles.
+  - All you can eat tuna in 5-6 different styles.
 
 - [청마루](https://naver.me/x67Y8VlD) (아저씨squad)
   - Kal-guksu, good for a rainy day. I never got to try fermented sting ray from here 홍어회)
@@ -425,7 +425,7 @@ like I could be there and try so many more. This
 - [삼동소바](https://naver.me/FoEos0Ui)
   - This place put me on putting wasabi into my soba
 
-- [고바우식당](https://naver.me/FSw7HGxv)
+- [고바우식당](https://naver.me/FSw7HGxv) (w. Nuri + Jooeun & Chung + 오)
   - Samgyeobsal and Kelanmari
 
 - [밀레니엄](https://naver.me/GzEDEo66) (축하해용Heewoo~)

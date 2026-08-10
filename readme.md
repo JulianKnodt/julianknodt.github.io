@@ -62,7 +62,7 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
     <td width="80">2026</td>
     <td width="100">
       <img
-      src="https://dl.acm.org/cms/10.1145/3804451/asset/ac165421-c153-43ff-a247-25d9dd8029cd/assets/images/medium/tog-25-0098-f01.jpg"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7cKan3QENzXZGidr0WnAgsvbfyBnTdBaqVHRy0lxjuA&s"
       width="80"/>
     </td>
     <td width="320">
