@@ -57,6 +57,27 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
       # Reprod
     </td>
   </tr>
+
+  <tr>
+    <td width="80">2026</td>
+    <td width="100">
+      <img
+      src="https://dl.acm.org/cms/10.1145/3804451/asset/ac165421-c153-43ff-a247-25d9dd8029cd/assets/images/medium/tog-25-0098-f01.jpg"
+      width="80"/>
+    </td>
+    <td width="320">
+      <a href="https://dl.acm.org/doi/10.1145/3804451">Texture Aware Remeshing & Geom Processing</a>
+    </td>
+    <td>
+      Remesh a mesh with UV textures into vertex colors, and perform processing on both geometry
+      and color.
+    </td>
+    <td width="200">
+      [Code](https://github.com/JulianKnodt/texture_to_vert_colors)
+      [Project Page](https://www.julianknodt.com/papers/textures_to_vert_colors)
+    </td>
+  </tr>
+
   <tr>
     <td width="80">2026</td>
     <td width="100">
@@ -71,7 +92,7 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
       Convert a 3D surface into a set of convex primitives for collision detection.
     </td>
     <td width="200">
-      2
+      4
     </td>
   </tr>
 
