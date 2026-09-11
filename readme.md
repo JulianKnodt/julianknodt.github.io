@@ -73,8 +73,8 @@ document.getElementById('where_am_i').addEventListener("click", function(event) 
       and color.
     </td>
     <td width="200">
-      [Code](https://github.com/JulianKnodt/texture_to_vert_colors)
-      [Project Page](https://www.julianknodt.com/papers/textures_to_vert_colors)
+      <a href="https://github.com/JulianKnodt/texture_to_vert_colors">Code</a>
+      <a href="https://www.julianknodt.com/papers/textures_to_vert_colors">Project Page</a>
     </td>
   </tr>
 
