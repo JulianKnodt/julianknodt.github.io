@@ -46,13 +46,13 @@ What you'll need:
 2. Create a vertex color mesh with:
 ```
 cargo run --release -- -i data/plane.obj -d <PATH TO YOUR IMAGE> \
-  --target-tri-num -o vert_color_mesh.ply
+  --target-tri-num <# HERE> -o vert_color_mesh.ply
 ```
 
 3. Split the mesh into charts with separate color. You may have to tweak the number of pieces
 you break it into, with `-t`. `clusters.ply` has the output images clusters
 ```
-cargo run --release -- -i vert_color_mesh.ply -o clustered_mesh.ply -t 20 \
+cargo run --release --bin clustering -- -i vert_color_mesh.ply -o clustered_mesh.ply -t 20 \
   -c clusters.ply
 ```
 
